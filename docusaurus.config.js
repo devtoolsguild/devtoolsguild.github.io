@@ -12,7 +12,7 @@ const config = {
   tagline: 'Documentation for Developer Tools Guild',
   favicon: 'img/favicon.ico',
 
-  url: 'https://devtoolsguild.github.io',
+  url: 'https://www.devtoolsguild.xyz',
   baseUrl: '/',
 
   // GitHub pages deployment config.
@@ -71,7 +71,7 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'docs',
             position: 'left',
             label: 'Tutorial',
           },
