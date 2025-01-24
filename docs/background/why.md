@@ -3,45 +3,34 @@ sidebar_position: 1
 ---
 
 
-# Why do we need a DevTools Guild?
+# Why a Guild?
 
-Creating developer tooling as a common good is hard. Developer tools often start off as open-source projects created to solve a specific problem for a group of developers. Over time some of them find themselves gaining traction and communities of users form around them.
+In short, maintaining open-source, public good developer tooling is difficult, and bringing together a collective of tooling projects across the Ethereum ecosystem offers significant benefits.
 
-However, more often than not they are created without commercial motivations, instead, they are created to benefit developers as a whole and are accessible to all with their permissive licensing. 
+## Reliable Runway, Reliable Tools
 
-As the impact of developer toolings grow, so does the needs of its users which results in more work for the individual or team(s) responsible for maintaining it. Hence what often starts off as a passion project grows into something that needs funding to meet the needs of its users and sustain the project.
+Developer tools often start off as open-source projects with no commercial motivations, created to scratch the itch of an individual or team. Over time, some of them find themselves gaining traction and communities of users form around them.
 
-Funding typically comes from investments or grants and donations. 
-- Investment funding requires a commercial business to be built around the software, which can be to the detriment of the project and its users, as an investor wants to see a return on their investment. This typically requires a product or service to be sold to some or all users of the project. 
-- Grant funding enables the software to continue being built and serve the needs of its community. However, grants are for a finite amount of time and can be time-consuming to apply for. In addition, they only provide funding certainty for the duration of the grant which provides funding uncertainty.
-- Donations from users of common goods can be useful to help sustain projects, however, there is typically a significant gap between donations versus having enough funding to cover salaries.
+As the impact of tool grows, so too does the needs of its users, resulting in more work for the maintainer. What often starts off as a passion project grows into something that needs additional support and funding to meet the needs of its users, sustaining or growing the project.
 
-The projects in the DevTools Guild are all common goods which have both similar goals and funding challenges. They are generally primarily reliant on grant funding which needs to be managed on an ongoing basis for teams.
+If maintainers don't burn out before then, support typically comes from investments, grants, or donations. 
+- Investment funding requires a commercial business to be built around the software, which can be to the detriment of the project and its users, as an investor wants to see a return on their investment.
+- Grant funding enables the software to continue being built and serve the needs of its community, but are can be time-consuming to apply for and only provide funding certainty for the duration of the grant.
+- Donations from users of public goods are valued, but are unpredictable and often insufficient to cover the needs of the maintainer.
 
-Many projects also share sources they use for grant funding, such as the Ethereum Foundation’s Ecosystem Support Program, Optimism’s Retroactive Public Goods Funding and Gitcoin’s Quarterly Grant program.
+The projects in the Developer Tools Guild are all public goods, which have both similar goals and funding challenges. Many are reliant on grant funding, which needs to be managed on an ongoing basis. Many projects also have shared sources they rely on for grant funding, such as the Ethereum Foundation’s Ecosystem Support Program, Optimism’s Retroactive Public Goods Funding, and Gitcoin’s Quarterly Grant program.
 
-By having a collective of aligned projects in the DevTools Guild, the funding burden is reduced considerably as:
-- Projects no longer need to apply individually for grant funds via major funding sources
-- Funders can donate via a guild reducing the burden of of assessing ongoing applications from all of the individual members
-- Funding can potentially be secured for longer time horizons
+By having a collective of aligned projects in the guild, the funding burden is reduced considerably as:
+- Projects no longer need to divert resources to apply individually for funding
+- Funders can donate via the guild, reducing the burden of assessing ongoing applications from each of the individual members
+- Projects can potentially be secured for longer time horizons
 
-In addition, the Guild structure provides greater alignment between member projects and their common goal of ensuring the Ethereum ecosystem has the leading developer tooling of any blockchain network, supporting a broad range of programming languages.
+## Coordination, Alignment, and Accountability
 
-## Coordination
+In addition to fundraising benefits, the guild structure provides greater alignment between member projects and their common goal of ensuring the Ethereum ecosystem has the leading developer tooling of any blockchain network, supporting a broad range of programming languages and developer communities.
 
-An additional benefit of the Guild structure is co-ordination between teams. Currently, there is a duplication of effort by teams which will be reduced by having this guild in place. Some of these are outlined below.
+The guild structure provides a coordination mechanism between teams. Teams meet regularly and are expected to coordinate on Ethereum upgrades, roadmap planning, and community engagement.
 
-### Co-ordinating Ethereum Upgrades
+During the EIP-1559 upgrade, there was an initiative in place to coordinate work between different Ethereum developer tooling teams to ensure they were ready for the upgrade. The industry would benefit from more regular synchronisations between tooling teams to plan for upcoming upgrades to ensure broad support for new features are available in a timely manner.
 
-During the EIP-1559 upgrade, there was an initiative in place to coordinate work between different Ethereum dev tooling teams to ensure they were ready for the upgrade. It would be beneficial to incorporate regular synchronisations between Guild members to plan for upcoming upgrades to ensure support for them is ready ahead of time.
-
-### Project Updates
-
-Having regular sessions for Guild members to share what they are working on and their project roadmaps can help provide additional alignment and inspiration to related projects (such as client integration libraries).
-
-This type of activity can also be useful for providing accountability to other Guild members on how the project is progressing over time.
-
-### Obtaining Funding
-
-Guild members often find themselves independently applying for the same funding opportunities as one another. By having a unified structure in place, this reduces the burden on teams applying for funding and projects reviewing submissions by having a single submission that caters for many of the leading dev tooling projects in the Ethereum ecosystem.
-
+Finally, the guild structure provides a mechanism for Guild members to share updates on their work and project roadmaps. These sessions foster alignment and inspire collaboration across related projects. They also help build accountability by allowing members to track and discuss progress over time.
