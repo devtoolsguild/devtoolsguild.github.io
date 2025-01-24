@@ -12,7 +12,7 @@ const config = {
   tagline: 'Documentation for Developer Tools Guild',
   favicon: 'img/favicon.ico',
 
-  url: 'https://www.devtoolsguild.xyz',
+  url: 'https://devtoolsguild.xyz',
   baseUrl: '/',
 
   // GitHub pages deployment config.
@@ -73,11 +73,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'docs',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Home',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/devtoolsguild/docs',
+            href: 'https://github.com/devtoolsguild/devtoolsguild.github.io',
             label: 'GitHub',
             position: 'right',
           },
@@ -87,25 +87,17 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Media',
             items: [
               {
-                label: 'Tutorial',
-                to: '/intro',
+                label: 'Blog',
+                to: '/blog',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Socials',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
               {
                 label: 'X',
                 href: 'https://x.com/docusaurus',
@@ -113,15 +105,11 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Code',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/devtoolsguild/docs',
+                href: 'https://github.com/devtoolsguild/devtoolsguild.github.io',
               },
             ],
           },
