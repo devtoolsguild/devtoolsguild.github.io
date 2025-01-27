@@ -5,6 +5,10 @@ sidebar_position: 1
 
 This documentation explains the *what, why and how* of the Developer Tools Guild.
 
+![Developer Tools Guild Banner](/img/dtg-banner.png)
+
+> ***Note:** Many of the details here are still a work in progress. The documentation is a living document and will be updated as progress is made.*
+
 ## Mission
 
 To accelerate the development of apps in the Ethereum ecosystem via world-class tooling.

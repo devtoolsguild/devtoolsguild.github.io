@@ -6,5 +6,4 @@ sidebar_position: 5
 
 |Network|Address|
 |---|---|
-|Ethereum Mainnet|0xtbc|
-| | |
+|Ethereum Mainnet|*Pending*|
