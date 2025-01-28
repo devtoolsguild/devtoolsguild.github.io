@@ -66,7 +66,7 @@ const config = {
         title: 'Developer Tools Guild',
         logo: {
           alt: 'Developer Tools Guild Logo',
-          src: 'img/logo.svg',
+          src: 'img/dtg-logo-trimmed.svg',
         },
         items: [
           {

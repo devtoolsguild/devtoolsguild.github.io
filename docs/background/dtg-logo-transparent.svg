@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="820px" height="820px" viewBox="0 0 820 820" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DTG logo - transparent</title>
+    <defs>
+        <text id="text-1" font-family="Rockwell-Bold, Rockwell" font-size="230" font-weight="bold" fill="#FFFFFF">
+            <tspan x="310.340332" y="272">D</tspan>
+            <tspan x="324.603027" y="502">T</tspan>
+            <tspan x="303.770508" y="732">G</tspan>
+        </text>
+        <filter x="1.0%" y="-4.9%" width="97.3%" height="96.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DTG-logo---transparent" fill-rule="nonzero">
+            <polygon id="Path" points="0 0 820 0 820 820 0 820"></polygon>
+            <g id="Group-21" transform="translate(179.000000, 34.000000)">
+                <polygon id="Path-Copy-5" fill="#FFFFFF" points="230.478651 278 0 382.767759 230.478651 519 461 382.767759"></polygon>
+                <polygon id="Path-Copy-4" fill="#FFFFFF" points="0 382.670645 231 519 231 277.828202 231 0"></polygon>
+                <polygon id="Path-Copy-3" fill="#FFFFFF" points="231 0 231 277.828202 231 519 462 382.670645"></polygon>
+                <polygon id="Path-Copy-2" fill="#FFFFFF" points="0 427 231 752 231 563.246221"></polygon>
+                <polygon id="Path-Copy" fill="#FFFFFF" points="231 563.246221 231 752 462 427"></polygon>
+                <polygon id="Path" fill="#000000" opacity="0.6" points="230.478651 278 0 382.767759 230.478651 519 461 382.767759"></polygon>
+                <polygon id="Path" fill="#000000" opacity="0.45" points="0 382.670645 231 519 231 277.828202 231 0"></polygon>
+                <polygon id="Path" fill="#000000" opacity="0.8" points="231 0 231 277.828202 231 519 462 382.670645"></polygon>
+                <polygon id="Path" fill="#000000" opacity="0.45" points="0 427 231 752 231 563.246221"></polygon>
+                <polygon id="Path" fill="#000000" opacity="0.8" points="231 563.246221 231 752 462 427"></polygon>
+            </g>
+            <g id="D-T-G" fill="#FFFFFF" fill-opacity="1">
+                <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+                <use xlink:href="#text-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
