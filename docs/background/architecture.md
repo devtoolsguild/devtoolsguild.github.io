@@ -32,7 +32,7 @@ The process involves:
 #### How it works:
 - Donated tokens will accrue in a per-asset queue until a vesting stream is started for that batch of tokens by triggering the `startStream` function.
     - This function is **permissionless**, meaning **any actor** can trigger it, regardless of whether they are a Guild member.
-- Once the vesting stream is started, the tokens will vest **linearly over 4 years** (or any predefined period set during contract deployment).
+- Once the vesting stream is started, the tokens will vest **linearly over 12 months** (or any predefined period set during contract deployment).
 - Anyone can **permissionlessly** trigger `releaseStream` to push vested tokens into the **SplitsV2** contract. *(Note: This must be done per vesting stream.)*
 
 
