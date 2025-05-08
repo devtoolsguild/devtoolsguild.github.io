@@ -12,7 +12,7 @@ const config = {
   tagline: 'Documentation for Developer Tools Guild',
   favicon: 'img/favicon.ico',
 
-  url: 'https://www.devtoolsguild.xyz',
+  url: 'https://devtoolsguild.xyz',
   baseUrl: '/',
 
   // GitHub pages deployment config.
@@ -69,23 +69,23 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/dtg-social-card.jpg',
       navbar: {
         title: 'Developer Tools Guild',
         logo: {
           alt: 'Developer Tools Guild Logo',
-          src: 'img/logo.svg',
+          src: 'img/dtg-logo-trimmed.svg',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'docs',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Home',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/devtoolsguild/docs',
+            href: 'https://github.com/devtoolsguild/devtoolsguild.github.io',
             label: 'GitHub',
             position: 'right',
           },
@@ -95,16 +95,16 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Media',
             items: [
               {
-                label: 'Tutorial',
-                to: '/intro',
+                label: 'Blog',
+                to: '/blog',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Socials',
             items: [
               {
                 label: 'Discord',
@@ -117,15 +117,11 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Code',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/devtoolsguild/docs',
+                href: 'https://github.com/devtoolsguild/devtoolsguild.github.io',
               },
             ],
           },
@@ -143,7 +139,12 @@ const config = {
           dark: 'rgba(50, 50, 50, 0.95)'
         },
         config: {} // optional medium-zoom config
-      }
+      },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
     }),
 };
 

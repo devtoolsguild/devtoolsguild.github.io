@@ -18,9 +18,6 @@ const sidebars = {
 
   docs: [
     'intro',
-    'eligibility',
-    'membership',
-    'donate',
     {
       type: 'category',
       label: 'Background',
@@ -31,6 +28,8 @@ const sidebars = {
         },
       ],
     },
+    'membership',
+    'donate',
     {
       type: 'category',
       label: 'Member Resources',
