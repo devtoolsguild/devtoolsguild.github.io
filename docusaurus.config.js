@@ -27,6 +27,10 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    'docusaurus-plugin-image-zoom',
+  ],
+
   presets: [
     [
       'classic',
@@ -52,6 +56,10 @@ const config = {
         },
         theme: {
           customCss: './src/css/custom.css',
+        },
+        gtag: {
+          trackingID: 'G-JY6XSHHXMS',
+          anonymizeIP: true,
         },
       }),
     ],
@@ -99,16 +107,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/PQkHsbRFrx',
               },
               {
                 label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://x.com/devtoolsguild',
               },
             ],
           },
@@ -132,6 +136,14 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      zoom: {
+        selector: '.markdown img:not(em img)', // avoids zooming on emoji or inline images
+        background: {
+          light: 'rgba(255, 255, 255, 0.95)',
+          dark: 'rgba(50, 50, 50, 0.95)'
+        },
+        config: {} // optional medium-zoom config
+      }
     }),
 };
 
