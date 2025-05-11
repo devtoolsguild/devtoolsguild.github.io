@@ -6,4 +6,4 @@ sidebar_position: 5
 
 |Network|Address|
 |---|---|
-|Ethereum Mainnet|*Pending*|
+|Ethereum Mainnet|*Coming soon*|
