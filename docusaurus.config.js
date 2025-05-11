@@ -17,7 +17,8 @@ const config = {
 
   // GitHub pages deployment config.
   organizationName: 'devtoolsguild',
-  projectName: 'docs',
+  projectName: 'devtoolslguild.xyz',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
