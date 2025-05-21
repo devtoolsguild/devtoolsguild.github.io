@@ -8,7 +8,7 @@ sidebar_position: 3
 
 Quantifying the impact DevTool Guild members have on the Ethereum development and wider ecosystem is crucial to establishing trust in the work of the Guild and ensuring the sum of its parts is greater than any individual project's impact.
 
-Unlike core protocol development which ultimately results in updates to the Ethereum clients running the Ethereum mainnet, there is no co-ordinated on-chain metrics that can be used to cohesively measure on-chain impact of most developer tooling (Solidity and Vyper contract deployments being the exception that comes to mind).
+Unlike core protocol development which ultimately results in updates to the Ethereum clients running the Ethereum mainnet, there is no co-ordinated onchain metrics that can be used to cohesively measure onchain impact of most developer tooling (Solidity and Vyper contract deployments being the exception that comes to mind).
 
 Historically, more traditional quantifiable metrics have been used to demonstrate the impact of developer tooling projects in Ethereum. However, these don’t necessarily provide a real understanding of the impact these projects have had. As per [Goodhart’s Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) ("When a measure becomes a target, it ceases to be a good measure”), metrics can be gamed, and especially when one sees the size of communities on X, Discord or Telegram for projects with planned token launches, it’s clear how much incentives can be misaligned in web3 to favour short-term gains over providing long-term positive impact by projects.
 
