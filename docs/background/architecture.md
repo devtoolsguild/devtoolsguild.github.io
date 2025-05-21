@@ -8,9 +8,9 @@ This section describes the Guild’s current smart contract architecture.
 
 ## Modules
 
-The DevTools Guild plans to follow the precedent set by the [Protocol Guild](https://protocol-guild.readthedocs.io/en/latest/03-onchain-architecture.html) with respect to the smart contract infrastructure it utilizes.
+The Dev Tools Guild plans to follow the precedent set by the [Protocol Guild](https://protocol-guild.readthedocs.io/en/latest/03-onchain-architecture.html) with respect to the smart contract infrastructure it utilizes.
 
-Following are the two core contracts that DevTools Guild will utilize.
+Following are the two core contracts that Dev Tools Guild will utilize.
 
 - **The Splits contract** is used for splitting fund distributions to multiple addresses.
 - **The Vesting contract** is used to vest funds over a defined period of time before they can be released to the Splits contract.

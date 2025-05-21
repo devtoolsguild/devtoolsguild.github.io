@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Project Categories
 
-The DevTools Guild comprises of a number of open-source, projects that are public goods for Ethereum. These projects are free software in the [GNU parlance](https://www.gnu.org/philosophy/free-sw.en.html) that can be utilised by developers building on Ethereum, without the requirement of any third-party commercial products or services to use them to their full potential.
+The Dev Tools Guild comprises of a number of open-source, projects that are public goods for Ethereum. These projects are free software in the [GNU parlance](https://www.gnu.org/philosophy/free-sw.en.html) that can be utilised by developers building on Ethereum, without the requirement of any third-party commercial products or services to use them to their full potential.
 
 They are public goods for developers on Ethereum in the truest sense of the word.
 

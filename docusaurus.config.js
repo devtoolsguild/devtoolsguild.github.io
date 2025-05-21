@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Developer Tools Guild',
-  tagline: 'Documentation for Developer Tools Guild',
+  title: 'Dev Tools Guild',
+  tagline: 'Documentation for Dev Tools Guild',
   favicon: 'img/favicon.ico',
 
   url: 'https://devtoolsguild.xyz',
@@ -72,9 +72,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/dtg-social-card.jpg',
       navbar: {
-        title: 'Developer Tools Guild',
+        title: 'Dev Tools Guild',
         logo: {
-          alt: 'Developer Tools Guild Logo',
+          alt: 'Dev Tools Guild Logo',
           src: 'img/dtg-logo-trimmed.svg',
         },
         items: [
