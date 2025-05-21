@@ -3,9 +3,9 @@ sidebar_position: 1
 ---
 # Introduction
 
-This documentation explains the *what, why and how* of the Developer Tools Guild.
+This documentation explains the *what, why and how* of the Dev Tools Guild.
 
-![Developer Tools Guild Banner](/img/dtg-banner.png)
+![Dev Tools Guild Banner](/img/dtg-banner.png)
 
 > ***Note:** Many of the details here are still a work in progress. The documentation is a living document and will be updated as progress is made.*
 
