@@ -6,7 +6,7 @@ sidebar_position: 10
 
 ### How are you different from Protocol Guild?
 
-Protocol Guild (PG) is a collective funding mechanism for Ethereum layer 1 R&D. Whilst PG heavily inspired the Developer Tools Guild (DTG), DTG exists to provide a coordination mechanism and collective funding for widely used developer tooling, enabling developers to easily build applications on Ethereum.
+Protocol Guild (PG) is a collective funding mechanism for Ethereum layer 1 R&D. Whilst PG heavily inspired the Dev Tools Guild (DTG), DTG exists to provide a coordination mechanism and collective funding for widely used developer tooling, enabling developers to easily build applications on Ethereum.
 
 ### Why am I donating to projects I don’t personally use?
 
@@ -20,7 +20,7 @@ In addition, many of your favourite application developers likely use projects w
 
 In short, each project in the guild serves an important subset of the Ethereum developer community. Even tools in the same language domain can serve different use cases, niche markets, or different developer personas.
 
-Further, some overlap isn’t a sign of inefficiency but rather a hallmark of a healthy ecosystem, where competition and collaboration drive progress. Each project contributes to the community in its own way, empowering developers with options tailored to their specific needs. Supporting this diversity in tools and approaches is a fundamental value of the Developer Tools Guild.
+Further, some overlap isn’t a sign of inefficiency but rather a hallmark of a healthy ecosystem, where competition and collaboration drive progress. Each project contributes to the community in its own way, empowering developers with options tailored to their specific needs. Supporting this diversity in tools and approaches is a fundamental value of the Dev Tools Guild.
 
 ### What is required of member projects?
 

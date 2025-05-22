@@ -18,7 +18,7 @@ If maintainers don't burn out before then, support typically comes from investme
 - Grant funding enables the software to continue being built and serve the needs of its community, but are can be time-consuming to apply for and only provide funding certainty for the duration of the grant.
 - Donations from users of public goods are valued, but are unpredictable and often insufficient to cover the needs of the maintainer.
 
-The projects in the Developer Tools Guild are all public goods, which have both similar goals and funding challenges. Many are reliant on grant funding, which needs to be managed on an ongoing basis. Many projects also have shared sources they rely on for grant funding, such as the Ethereum Foundation’s Ecosystem Support Program, Optimism’s Retro Funding, and Gitcoin’s Quarterly Grant program.
+The projects in the Dev Tools Guild are all public goods, which have both similar goals and funding challenges. Many are reliant on grant funding, which needs to be managed on an ongoing basis. Many projects also have shared sources they rely on for grant funding, such as the Ethereum Foundation’s Ecosystem Support Program, Optimism’s Retro Funding, and Gitcoin’s Quarterly Grant program.
 
 By having a collective of aligned projects in the guild, the funding burden is reduced considerably as:
 - Projects no longer need to divert resources to apply individually for funding
