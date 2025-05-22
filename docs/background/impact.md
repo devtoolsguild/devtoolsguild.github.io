@@ -37,7 +37,7 @@ Impact metrics are less tangible and could include metrics such as:
 - Projects rewarded by airdrops may be a helpful metric for determining the impact of projects. For instance, the following airdrops have provided some useful information on OSS they have benefited from:
 	- EigenLayer Stakedrop Season 2 ([announcement](https://blog.eigenfoundation.org/season-2-stakedrop/), [spreadsheet of beneficiaries](https://docs.google.com/spreadsheets/d/164W5f7xGzNnd_WKnzRDqTTvlcaRt2mTOnTL0DlnFmhM/edit?ref=blog.eigenfoundation.org&gid=0#gid=0))
 	- Avail Unification Drop ([announcement](https://blog.availproject.org/avails-unification-drop/#phase-2), [spreadsheet of beneficiaries](https://docs.google.com/spreadsheets/d/1ju4svzoWbadKZnLiDgQiqgBRVCjqCrSzkpHRtoHEwSs/edit?ref=blog.availproject.org&gid=1131269803#gid=1131269803))
-	- Optimism RPGF Rounds
+	- Optimism's Retro Funding rounds
 - Industry reports may be helpful such as [Electric Capital Developer Report](https://www.developerreport.com/developer-report)
 - Ethereum Stack Overflow activity — [example](https://ethereum.stackexchange.com/questions/tagged/web3j)
 - Partnership with projects such as [https://openq.dev/](https://openq.dev/) that provide deep analysis on open-source projects. 
