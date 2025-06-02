@@ -11,6 +11,7 @@ sidebar_position: 3
 * [Vyper](https://vyperlang.org/)
 
 ### Client libraries 
+* [alloy](https://alloy.rs/)
 * [ethers.js](https://ethers.org/)
 * [Nethereum](https://nethereum.com/)
 * [viem](https://viem.sh/)
