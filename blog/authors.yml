@@ -1,6 +1,16 @@
+abcoathup:
+  name: Andrew B Coathup
+  title: Guild Coordinator
+  url: https://github.com/abcoathup
+  image_url: https://github.com/abcoathup.png
+  page: true
+  socials:
+    x: abcoathup
+    github: abcoathup
+
 conor:
   name: Conor Svensson
-  title: Guild Member
+  title: Founding Guild Coordinator
   url: https://github.com/conor10
   image_url: https://github.com/conor10.png
   page: true
