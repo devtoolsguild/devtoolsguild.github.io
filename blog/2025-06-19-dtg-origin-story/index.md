@@ -7,11 +7,11 @@ tags: [launch]
 
 # Dev Tools Guild Origin Story
 
-_**TLDR**: Origin story of Web3j in 2016 and Dev Tools Guild launching today._
+_**TL;DR**: Origin story of Web3j in 2016 and Dev Tools Guild._
 
-After almost a year of coordination, we're finally ready to announce the Dev Tools Guild (DTG)  to the world.
+After almost a year of coordination, we're finally ready to announce the Dev Tools Guild to the world.
 
-Composed of many of the teams responsible for the core infrastructure powering developers building Ethereum, the Dev Tools Guild has been established to accelerate the development of DApps on Ethereum.
+Composed of many of the teams responsible for the core infrastructure powering developers building on Ethereum, the Dev Tools Guild has been established to accelerate the development of DApps on Ethereum.
 
 <!-- truncate -->
 
@@ -93,11 +93,11 @@ We had a face to face get together for a number of teams in Bangkok during Devco
 
 We've been fortunate to have support from Trent and Cheeky of Protocol Guild who have enabled us to mirror aspects of how they operate, but do some things differently where it makes sense.
 
-But most importantly, the DTG would not exist were it not for their work with Protocol Guild, and Trent sharing his thoughts on what some other Guilds could look like.
+But most importantly, the guild would not exist were it not for their work with Protocol Guild, and Trent sharing his thoughts on what some other Guilds could look like.
 
 ## Back to the Guild Again
 
-The mission of the DTG is *to accelerate Ethereum app development via world-class tooling.*
+The mission of the guild is *to accelerate Ethereum app development via world-class tooling.*
 
 These are underpinned by the following values:
 
@@ -108,9 +108,9 @@ These are underpinned by the following values:
 * We lower the barriers to entry for developers to build on Ethereum.  
 * We champion a diverse ecosystem of languages, frameworks, and developer communities.
 
-We want to see Ethereum's DApps ecosystem thrive via increased coordination among members as well as with the core protocol. In addition, we want to provide sustainable funding for public good OSS. This latter point is something that is not a solved problem both inside and outside of Web3, and we are hopeful of the DTG (and PG) being trailblazers in this regard.
+We want to see Ethereum's DApps ecosystem thrive via increased coordination among members as well as with the core protocol. In addition, we want to provide sustainable funding for public good OSS. This latter point is something that is not a solved problem both inside and outside of Web3, and we are hopeful of the guild (and PG) being trailblazers in this regard.
 
-This ties into my own definition of what success looks like for the Dev Tools Guild. I wish to see the DTG obtain enough funding to sustain its member projects independently of whether the organisation responsible for it continues to exist or not.
+This ties into my own definition of what success looks like for the Dev Tools Guild. I wish to see the guild obtain enough funding to sustain its member projects independently of whether the organisation responsible for it continues to exist or not.
 
 Public good OSS need not rely solely on organisations or armies of volunteers to sustain it, it should have robust incentives in place that reward contributors financially for their work, and continue to reward for as long as they dedicate their time and resources to it.
 
