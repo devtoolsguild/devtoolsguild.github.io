@@ -7,6 +7,7 @@ abcoathup:
   socials:
     x: abcoathup
     github: abcoathup
+    linkedin: abcoathup
 
 conor:
   name: Conor Svensson
@@ -17,15 +18,4 @@ conor:
   socials:
     x: ConorSvensson
     github: conor10
-
-wolovim:
-  name: wolovim
-  title: Guild Member
-  url: https://github.com/wolovim
-  image_url: https://github.com/wolovim.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-wolovim-articles'
-  socials:
-    x: wolovim
-    github: wolovim
+    linkedin: conorsvensson

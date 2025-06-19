@@ -36,8 +36,4 @@ The following projects are observing the Dev Tools Guild pilot.
 
 | Name                                                            | Category                   |
 |-----------------------------------------------------------------|----------------------------|
-| [Fe](https://fe-lang.org/)                                      | Smart Contract Language    |
-| [Hardhat](https://hardhat.org/)                                 | Framework & Dev Environment |
 | [Remix](https://remix.ethereum.org/)                            | Framework & Dev Environment |
-| [ERCs](https://github.com/ethereum/ERCs)                        | Standardisation Tooling    |
-| [ethdebug](https://github.com/)                                 | Standardisation Tooling    |

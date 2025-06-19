@@ -55,7 +55,7 @@ Whilst FOSS is developed in the open, heading to project GitHub repos, social ac
 
 The reporting template is not intended to be onerous for teams to fill out but should capture enough information to be useful.
 
-A bi-annual cadence will be used for reporting by members, using the [reporting template](../member-resources/reporting-template.md). Inspiration for this are outlined below.
+A bi-annual cadence will be used for reporting by members, using the [reporting template](../resources/reporting-template.md). Inspiration for this are outlined below.
 
 - Octant’s [long-term and short term project templates](https://docs.octant.app/reporting-templates.html#project-proposal-template)
 - Annual and quarterly reports such as performed by Decentralized Trust Foundation (formerly Hyperledger) 

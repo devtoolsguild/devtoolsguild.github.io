@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Project Impact Reporting Template
+# Impact Reporting Template
 
 ## Activity and Roadmap
 
