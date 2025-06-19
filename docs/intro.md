@@ -3,15 +3,19 @@ sidebar_position: 1
 ---
 # Introduction
 
+Dev Tools Guild unites Ethereum developer tool projects to collectively fund individual members & projects, connect app & protocol developers and boost coordination. 
+
+Coordinated by Conor Svensson (Founder) and Andrew B Coathup, the guild is starting with a one-year pilot.
+
 This documentation explains the *what, why and how* of the Dev Tools Guild.
 
 ![Dev Tools Guild Banner](/img/dtg-banner.png)
 
-> ***Note:** Many of the details here are still a work in progress. The documentation is a living document and will be updated as progress is made.*
+> ***Note:** The documentation is a living document and will be updated throughout the pilot.*
 
 ## Mission
 
-To accelerate the development of apps in the Ethereum ecosystem via world-class tooling.
+Accelerate Ethereum app development through world-class tooling.
 
 ## Values
 

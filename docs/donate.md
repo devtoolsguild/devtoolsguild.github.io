@@ -4,6 +4,6 @@ sidebar_position: 5
 
 # Donate
 
-|Network|Address|
+|Network|Address (ENS) |
 |---|---|
-|Ethereum Mainnet|*Coming soon*|
+|Ethereum mainnet|[donate.devtoolsguild.eth](https://etherscan.io/address/donate.devtoolsguild.eth)|

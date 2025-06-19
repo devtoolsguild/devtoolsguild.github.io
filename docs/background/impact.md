@@ -32,12 +32,12 @@ Impact metrics are less tangible and could include metrics such as:
 
 - Projects or companies using tool
 - Annual developer survey - asking developers about their tooling stack, languages, etc.
-- Interview (or at least review) top 100 project teams for their devtools stack (also a great opportunity to encourage their sponsorship)
+- Interview (or at least review) top 100 project teams for their dev tools stack (also a great opportunity to encourage their sponsorship)
 - Minimal published audits to demonstrate funding is going towards FOSS tool(s)development and maintenance, and not other commercial aspects of the receiving organization
 - Projects rewarded by airdrops may be a helpful metric for determining the impact of projects. For instance, the following airdrops have provided some useful information on OSS they have benefited from:
 	- EigenLayer Stakedrop Season 2 ([announcement](https://blog.eigenfoundation.org/season-2-stakedrop/), [spreadsheet of beneficiaries](https://docs.google.com/spreadsheets/d/164W5f7xGzNnd_WKnzRDqTTvlcaRt2mTOnTL0DlnFmhM/edit?ref=blog.eigenfoundation.org&gid=0#gid=0))
 	- Avail Unification Drop ([announcement](https://blog.availproject.org/avails-unification-drop/#phase-2), [spreadsheet of beneficiaries](https://docs.google.com/spreadsheets/d/1ju4svzoWbadKZnLiDgQiqgBRVCjqCrSzkpHRtoHEwSs/edit?ref=blog.availproject.org&gid=1131269803#gid=1131269803))
-	- Optimism's Retro Funding rounds
+	- Optimism's [Retro Funding rounds](https://atlas.optimism.io/missions)
 - Industry reports may be helpful such as [Electric Capital Developer Report](https://www.developerreport.com/developer-report)
 - Ethereum Stack Overflow activity — [example](https://ethereum.stackexchange.com/questions/tagged/web3j)
 - Partnership with projects such as [https://openq.dev/](https://openq.dev/) that provide deep analysis on open-source projects. 
@@ -55,7 +55,7 @@ Whilst FOSS is developed in the open, heading to project GitHub repos, social ac
 
 The reporting template is not intended to be onerous for teams to fill out but should capture enough information to be useful.
 
-A bi-annual cadence will be used for reporting by members, using the following template (TODO: insert link). Inspiration for this are outlined below.
+A bi-annual cadence will be used for reporting by members, using the [reporting template](../member-resources/reporting-template.md). Inspiration for this are outlined below.
 
 - Octant’s [long-term and short term project templates](https://docs.octant.app/reporting-templates.html#project-proposal-template)
 - Annual and quarterly reports such as performed by Decentralized Trust Foundation (formerly Hyperledger) 

@@ -8,6 +8,8 @@ sidebar_position: 10
 
 Protocol Guild (PG) is a collective funding mechanism for Ethereum layer 1 R&D. Whilst PG heavily inspired the Dev Tools Guild (DTG), DTG exists to provide a coordination mechanism and collective funding for widely used developer tooling, enabling developers to easily build applications on Ethereum.
 
+DTG membership consists of both projects and individuals, compared with PG which is only individuals.
+
 ### Why am I donating to projects I don’t personally use?
 
 DTG supports a broad and diverse range of developers. By remaining accessible to a wide range of developers using different languages and frameworks it increases the surface area of which Ethereum can attract developers, which is key for continuing to grow the Ethereum developer community.
@@ -33,7 +35,7 @@ We want to avoid having very specific criteria which can be gamed or are subject
 
 ### How do new projects gain membership?
 
-Until the pilot phase of the guild (likely to run for 1 year commencing early 2025) completes, it is unlikely that new member projects will be onboarded.
+Until the pilot phase of the guild (1 year) completes, it is unlikely that new member projects will be onboarded.
 
 During the pilot phase, one goal is to codify the criteria for membership. Broadly speaking, we want to ensure a pathway exists for projects to join the guild if they have demonstrated significant positive impact to the Ethereum development community over a sustained period, are aligned with the mission and values of the guild, and have a team working full-time on the project.
 
