@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Membership
 
+## Members
+
 Dev Tools Guild membership consists of both projects and individuals.
 
 | Membership Type   | Name                                                                 | Category                   |
@@ -22,8 +24,15 @@ Dev Tools Guild membership consists of both projects and individuals.
 | Pilot Project     | [Sourcify](https://sourcify.dev/)                                    | Standardisation Tooling |
 | Guild Coordinator | [Conor Svensson](https://x.com/conorsvensson)                        | Guild Coordinator          |
 | Guild Coordinator | [Andrew B Coathup](https://x.com/abcoathup)                          | Guild Coordinator          |
-| Observer          | [Fe](https://fe-lang.org/)                                           | Smart Contract Language    |
-| Observer          | [Hardhat](https://hardhat.org/)                                      | Framework & Dev Environment |
-| Observer          | [Remix](https://remix.ethereum.org/)                                 | Framework & Dev Environment |
-| Observer          | [ERCs](https://github.com/ethereum/ERCs)                             | Standardisation Tooling    |
-| Observer          | [ethdebug](https://github.com/)                                      | Standardisation Tooling    |
+
+## Observers
+
+Dev Tools Guild has the following projects observing the pilot.
+
+| Name                                                            | Category                   |
+|-----------------------------------------------------------------|----------------------------|
+| [Fe](https://fe-lang.org/)                                      | Smart Contract Language    |
+| [Hardhat](https://hardhat.org/)                                 | Framework & Dev Environment |
+| [Remix](https://remix.ethereum.org/)                            | Framework & Dev Environment |
+| [ERCs](https://github.com/ethereum/ERCs)                        | Standardisation Tooling    |
+| [ethdebug](https://github.com/)                                 | Standardisation Tooling    |
