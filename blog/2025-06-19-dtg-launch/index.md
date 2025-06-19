@@ -7,11 +7,11 @@ tags: [launch]
 
 # Dev Tools Guild launch
 
-***TL;DR**: Dev Tools Guild unites Ethereum developer tool projects to collectively fund individual members & projects, connect app & protocol developers and boost coordination. Coordinated by Conor Svensson (founder) and Andrew B Coathup, the guild starts today with a one-year pilot.*
+***TL;DR**: The Dev Tools Guild unites critical Ethereum developer tooling to collectively fund projects and their maintainers; and boost coordination between protocol and dev tools developers. Coordinated by [Conor Svensson](https://x.com/ConorSvensson) (founder) and [Andrew B Coathup](https://x.com/abcoathup), the Dev Tools Guild has launched with a one-year pilot.*
 
 **Mission: accelerate Ethereum app development through world-class tooling.**
 
-Dev Tools Guild is a coordinated initiative uniting the teams behind many of Ethereum’s most widely used developer tools. Whether you're writing smart contracts, building trading bots, or deploying consumer apps, chances are you’re relying on infrastructure maintained by guild members.
+The Dev Tools Guild is a coordinated initiative uniting the teams behind many of Ethereum’s most widely used developer tools. Whether you're writing smart contracts, building trading bots, or deploying consumer apps, chances are you’re relying on infrastructure maintained by guild members.
 
 <!-- truncate -->
 
@@ -27,53 +27,46 @@ Our goals:
 
 ## Who’s Involved
 
-The guild is kicking off a one-year pilot to align efforts, test ideas, and build a stronger foundation for the future. Participating individuals & projects maintain core dev tools across the stack:
+The Dev Tools Guild is kicking off with a one-year pilot to align efforts, test ideas, and build a stronger foundation for the future. Participating individuals & projects maintain core dev tools across the stack:
 
 * **Smart contract languages** – [Solidity](https://soliditylang.org/) & [Vyper](https://vyperlang.org/)  
 * **Client libraries** – [alloy](https://alloy.rs/), [ethers.js](https://ethers.org/), [Nethereum](https://nethereum.com/), [viem](https://viem.sh/), [web3.py](https://web3py.readthedocs.io/) & [Web3j](https://docs.web3j.io/)  
 * **Frameworks and developer environments** – [Ape](https://docs.apeworx.io/ape/stable/userguides/quickstart.html), [Foundry](https://getfoundry.sh/) & [Scaffold-ETH](https://scaffoldeth.io/)  
 * **Standardization tooling** – [Sourcify](https://sourcify.dev/)
 
-These projects support critical parts of Ethereum’s developer ecosystem and this pilot is a step toward deeper coordination and long-term impact.
+These projects support critical parts of Ethereum’s developer ecosystem and the Dev Tools Guild launch is a step toward deeper coordination and long-term impact.
 
 ## Guild Coordinators
 
-The Dev Tools Guild aspires to be both an open-source funding mechanism and serve a collaboration function within the ecosystem. Neither are possible without dedicated coordinators. Meet our two Guild Coordinators for the pilot:
+The Dev Tools Guild aspires to be both an open-source funding mechanism and serve a collaboration function within the ecosystem. Neither are possible without dedicated coordinators. Meet our two Guild Coordinators:
 
 #### Conor Svensson
 
-Conor is the founding Guild Coordinator and has been working in a variety of roles for the past year to establish the guild. He was inspired by [Trent](https://x.com/trent_vanepps)’s work creating the [Protocol Guild](https://www.protocolguild.org/) as a collective funding mechanism for the Ethereum protocol.
+Conor is the founding Guild Coordinator and has been working in a variety of roles for the past year to establish the guild. He was inspired by [Trent](https://x.com/trent_vanepps)’s work creating the [Protocol Guild](https://www.protocolguild.org/) and his ideas on [guild structures](https://trent.mirror.xyz/MsXtV_TGZHp05FN_qmzeT8bBc1lRghR3Y0TPvAd-WrA) as a collective funding mechanism for the Ethereum protocol.
 
-In 2016 he authored the [Web3j](https://github.com/LFDT-web3j/web3j) Java and Android integration library for Ethereum, and the challenges he experienced with sustaining the project have been a key motivation for his work on the guild.  In addition to the guild, he is working on improving UX and security in Ethereum via the [Enscribe](https://www.enscribe.xyz/) smart contract naming service, which he founded along with [Web3 Labs](https://www.web3labs.com/).
+In 2016 he authored the [Web3j](https://github.com/LFDT-web3j/web3j) Java and Android integration library for Ethereum, and the challenges he experienced with sustaining the project have been a key motivation for his work on the guild.  In addition to the guild, he is working on improving UX and security for users in Ethereum via the [Enscribe](https://www.enscribe.xyz/) smart contract naming and verification service, which he founded along with [Web3 Labs](https://www.web3labs.com/).
 
-Reach out to [Conor](https://x.com/ConorSvensson) if you’d like to financially support the Guild, or have any other questions.
+Reach out to [Conor](https://x.com/ConorSvensson) if you’d like to financially support the guild, or have any other questions.
 
 #### Andrew B Coathup
 
-Andrew recently joined as our second Guild Coordinator.  As part of the role he will keep app developers informed of tooling & protocol updates and surface app developer sentiment to core devs.
-
-He follows Ethereum protocol development and has a passion for sustainable open source software & education.  He is a moderator of Eth Magicians, was previously the editor of Week in Ethereum News, and before that, community manager at OpenZeppelin.
-
-Reach out to [Andrew](https://x.com/abcoathup) if you are:
-
-* An app dev that wants to weigh in on an upcoming protocol change, raise a tooling pain point, or highlight a success story  
-* A core dev or researcher that wants app or tooling developer feedback
+[Andrew](https://x.com/abcoathup) recently joined as our second Guild Coordinator, to assist with coordination between protocol and dev tools developers, as well as keeping the community informed of guild member tooling updates.   
+   
+He follows Ethereum protocol development and has a passion for sustainable open-source software and education.  He is a moderator of Eth Magicians, was previously the editor of Week in Ethereum News, and before that, community manager at OpenZeppelin.
 
 ## What's Next
 
 Over the coming months, the guild will:
 
 * **Be a resource to app developers** by publishing the latest tooling and protocol updates that impact Ethereum app development  
-* **Be a resource to Ethereum core devs and researchers** by surfacing app developer sentiment when it can best inform roadmap decisions  
-* **Be a resource to member projects** by keeping the lights on and providing a venue for transparency and collaboration
-
-If you’re ready to assist us in this mission, reach out to our Guild Coordinators.
+* **Be a resource to Ethereum core devs and researchers** by surfacing guild member sentiment when it can best inform roadmap decisions  
+* **Be a resource to member projects** by helping to keep the lights on and providing a venue for transparency and collaboration
 
 ## Credits
 
-A thank you to [Trent](https://x.com/trent_vanepps), [Cheeky](https://x.com/cheekygorilla0x) and the [Protocol Guild](https://www.protocolguild.org/) for their advice, [inspiration](https://trent.mirror.xyz/MsXtV_TGZHp05FN_qmzeT8bBc1lRghR3Y0TPvAd-WrA), and support from Day 1\. 
+A thank you to [Trent](https://x.com/trent_vanepps), [Cheeky](https://x.com/cheekygorilla0x) and the [Protocol Guild](https://www.protocolguild.org/) for their advice, inspiration, and support from Day 1\. 
 
-Thanks also to [Kevin](https://x.com/owocki), [Sejal](https://x.com/sejal_rekhan), and [Sov](https://x.com/sovereignsignal) for connecting many of the teams together to kickstart the pilot, and finally [Marc](https://github.com/wolovim) for all his support on strategy & sharpening the guild for launch. 
+Thanks also to [Kevin](https://x.com/owocki), [Sejal](https://x.com/sejal_rekhan), and [Sov](https://x.com/sovereignsignal) for connecting many of the teams together to kickstart the pilot, and finally [Marc](https://github.com/wolovim) for all his support on strategy and sharpening the guild for launch. 
 
 ## More info
 
@@ -81,7 +74,55 @@ Website: [dtg.wtf](https://dtg.wtf) // [devtoolsguild.xyz](http://devtoolsguild.
 Socials: [@devtoolsguild](https://x.com/devtoolsguild)  
 Donate: [donate.devtoolsguild.eth](https://etherscan.io/address/donate.devtoolsguild.eth)
 
-## Quotes
+# Quotes
+
+**Redwan Meslem (Executive Director, Enterprise Ethereum Alliance)**
+
+For Ethereum to scale beyond enthusiasts and into mainstream enterprise use, its tooling layer must be robust, maintained, and aligned. The Dev Tools Guild tackles that challenge head-on. At the EEA, we’ve backed open-source infrastructure through public goods donations and are excited to see this coordinated effort take shape. It fills a key gap between protocol evolution and real-world deployment.
+
+---
+
+**awkweb (Viem/Wagmi co-maintainer)**
+
+Ethereum runs on Open Source. Developers spend countless hours using Developer Tools. The Dev Tools Guild brings the best Ethereum Developer Tools together so organizations can support vital projects their developers use every day and make Ethereum great.
+
+---
+
+**Ricmoo (ethers.js))**
+
+I’m always excited to see new ways to help fund public goods, so I can’t wait to see DTG in action. When ethers started 9 years ago, I never imagined I could make open-source development a full-time career. Strong and consistent funding can be difficult for grassroots projects to acquire, in a credibly neutral way — especially as we don’t have dedicated marketing and comms teams to support us. A lot of amazing projects we all depend on in the space are in similar situations, so having a dedicated (and expertise-aligned) guild-like entity to assist should help us all shine. ♥️
+
+---
+
+**Nikola (Solidity at Argot)**
+
+Solidity has always been central to Ethereum development, and now as part of Argot— a new collective of open source infrastructure teams including Solidity and Sourcify—we’re no longer under the EF umbrella and will be diversifying our funding sources. Initiatives like the Dev Tools Guild are essential to ensuring the long-term sustainability of the tools Ethereum depends on. DTG offers a meaningful way for the community to give back to the critical developer infrastructure that underpins countless successful projects.
+
+---
+
+**Austin Griffith (Scaffold-ETH)**
+
+The Dev Tools Guild isn't about building the fanciest new hammer. It's about getting all the best builders in a room, the real nerds who pour all their energy into the code, not the pitch deck, and making sure our collective toolbox is so damn good, so forkable, that builders can all stop worrying about the tools and get back to the hard part: shipping amazing things that people actually use. We're paving the cowpaths, abstracting the complexity, so any builder with a great idea can just get in there and start building.
+
+---
+
+**Kaan (Sourcify at Argot)**
+
+The Ethereum ecosystem is built on open-source foundations, yet the challenge of sustainably funding FOSS remains unresolved. Without ongoing support, there is a risk not only of losing essential tools but also of compromising Ethereum’s credible neutrality. This is where DTG plays a key role. It funds critical software that Ethereum projects and businesses rely on and encourages a culture of shared responsibility. More than a funding mechanism, DTG serves as a gathering space where diverse projects can align, share knowledge, and move forward together. Ethereum has always been at the frontier of experimentation, where new ideas take root and grow. DTG continues this tradition by exploring new models of funding, governance, and collective coordination.
+
+---
+
+**fubuloubu (Ape Framework)**
+
+The Ethereum ecosystem's greatest asset is its unparalleled developer tooling. Our developer tooling makes it possible for developers to build the most innovative and interesting projects on Ethereum first, exploring new ideas years before they get copied on other chains. If you believe in Ethereum as an economic engine for social good, it's a no brainer to support what makes it truly great: developers.
+
+---
+
+**Keri Clowes (web3.py)**
+
+A Dev Tools Guild for Ethereum is essential to ensuring the long-term sustainability, reliability, and quality of the infrastructure that underpins the entire ecosystem. Developer tooling often runs quietly in the background, but is mission-critical. The guild plays a vital role in identifying high-impact tools, supporting the maintainers who build and maintain them, and accelerating coordination across projects.
+
+---
 
 **Juan Blanco (Nethereum)**
 
@@ -97,54 +138,6 @@ By developers, for developers—bringing the love of Ethereum to everyone.
 
 ---
 
-**fubuloubu (Ape Framework)**
-
-The Ethereum ecosystem's greatest asset is its unparalleled developer tooling. Our developer tooling makes it possible for developers to build the most innovative and interesting projects on Ethereum first, exploring new ideas years before they get copied on other chains. If you believe in Ethereum as an economic engine for social good, it's a no brainer to support what makes it truly great: developers.
-
----
-
-**Nikola (Solidity at Argot)**
-
-Solidity has always been central to Ethereum development, and now as part of Argot— a new collective of open source infrastructure teams including Solidity and Sourcify—we’re no longer under the EF umbrella and will be diversifying our funding sources. Initiatives like the Dev Tools Guild are essential to ensuring the long-term sustainability of the tools Ethereum depends on. DTG offers a meaningful way for the community to give back to the critical developer infrastructure that underpins countless successful projects.
-
----
-
-**Kaan (Sourcify at Argot)**
-
-The Ethereum ecosystem is built on open source foundations, yet the challenge of sustainably funding FOSS remains unresolved. Without ongoing support, there is a risk not only of losing essential tools but also of compromising Ethereum’s credible neutrality. This is where DTG plays a key role. It funds critical software that Ethereum projects and businesses rely on and encourages a culture of shared responsibility. More than a funding mechanism, DTG serves as a gathering space where diverse projects can align, share knowledge, and move forward together. Ethereum has always been at the frontier of experimentation, where new ideas take root and grow. DTG continues this tradition by exploring new models of funding, governance, and collective coordination.
-
----
-
-**Redwan Meslem (Executive Director, Enterprise Ethereum Alliance)**
-
-For Ethereum to scale beyond enthusiasts and into mainstream enterprise use, its tooling layer must be robust, maintained, and aligned. The Dev Tools Guild tackles that challenge head-on. At the EEA, we’ve backed open-source infrastructure through public goods donations and are excited to see this coordinated effort take shape. It fills a key gap between protocol evolution and real-world deployment.
-
----
-
-**Austin Griffith (Scaffold-ETH)**
-
-The Dev Tools Guild isn't about building the fanciest new hammer. It's about getting all the best builders in a room, the real nerds who pour all their energy into the code, not the pitch deck, and making sure our collective toolbox is so damn good, so forkable, that builders can all stop worrying about the tools and get back to the hard part: shipping amazing things that people actually use. We're paving the cowpaths, abstracting the complexity, so any builder with a great idea can just get in there and start building
-
----
-
 **Conor Svensson (Author of Web3j & Founding Dev Tools Guild Coordinator)**
 
 When I created Web3j in 2016, it was out of necessity — there was no way for Java and Android developers to build on Ethereum. Like many open-source maintainers, I kept it going however I could, motivated by sheer belief in the ecosystem. The Dev Tools Guild exists to change this narrative. This isn’t just for Web3j, but for all the teams quietly powering Ethereum’s growth. We’re building a future where critical tools aren’t just surviving, but thriving, ensuring the continued success of the apps on Ethereum.
-
----
-
-**awkweb (Viem/Wagmi co-maintainer)**
-
-Ethereum runs on Open Source. Developers spend countless hours using Developer Tools. The Dev Tools Guild brings the best Ethereum Developer Tools together so organizations can support vital projects their developers use every day and make Ethereum great.
-
----
-
-**Keri Clowes (web3.py)**
-
-A Dev Tools Guild for Ethereum is essential to ensuring the long-term sustainability, reliability, and quality of the infrastructure that underpins the entire ecosystem. Developer tooling often runs quietly in the background, but is mission-critical. The guild plays a vital role in identifying high-impact tools, supporting the maintainers who build and maintain them, and accelerating coordination across projects. 
-
----
-
-**Ricmoo (ethers.js)**
-
-I’m always excited to see new ways to help fund public goods, so I can’t wait to see DTG in action. When ethers started 9 years ago, I never imagined I could make open-source development a full-time career. Strong and consistent funding can be difficult for grassroots projects to acquire, in a credibly neutral way — especially as we don’t have dedicated marketing and comms teams to support us. A lot of amazing projects we all depend on in the space are in similar situations, so having a dedicated (and expertise-aligned) guild-like entity to assist should help us all shine. :)
