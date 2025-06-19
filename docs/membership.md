@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Dev Tools Guild membership consists of both projects and individuals.  There are also projects observing the pilot.
 
-## Member projects
+## Member Projects
 
 | Name                                                                 | Category                   |
 |----------------------------------------------------------------------|----------------------------|
@@ -23,17 +23,14 @@ Dev Tools Guild membership consists of both projects and individuals.  There are
 | [Scaffold-ETH](https://scaffoldeth.io/)                              | Framework & Dev Environment |
 | [Sourcify](https://sourcify.dev/)                                    | Standardisation Tooling    |
 
-## Guild coordinators
+## Guild Coordinators
 
 | Name                                                  | Category          |
 |-------------------------------------------------------|-------------------|
 | [Conor Svensson](https://x.com/conorsvensson)         | Guild Coordinator (founder) |
 | [Andrew B Coathup](https://x.com/abcoathup)           | Guild Coordinator |
 
-## Individual members
-[TODO: add]
-
-## Observers
+## Observer Projects
 
 The following projects are observing the Dev Tools Guild pilot.
 
