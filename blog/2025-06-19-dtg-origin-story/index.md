@@ -3,7 +3,6 @@ slug: devtoolsguild-origin-story
 title: Dev Tools Guild origin story
 authors: [conor]
 tags: [launch]
-draft: true
 ---
 
 # Dev Tools Guild Origin Story
