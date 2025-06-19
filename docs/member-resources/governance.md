@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Governance proposals are decided by projects.  
 
-Each member roject gets one vote.  Guild coordinators cannot vote.
+Each member project gets one vote.  Guild coordinators cannot vote.
 
 Governance is via Discord polls.
 
