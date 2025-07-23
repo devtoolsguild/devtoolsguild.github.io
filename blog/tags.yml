@@ -2,3 +2,7 @@ launch:
   label: Launch
   permalink: /launch
   description: Dev Tools Guild launch
+update:
+  label: Monthly update
+  permalink: /update
+  description: Dev Tools Guild monthly updaate
