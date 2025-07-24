@@ -40,7 +40,7 @@ _**TL;DR**: Ethereum and Solidity turn ten.  Ethereum Foundation, Optimism's Ret
 #### [Web3j](https://docs.web3j.io/)
 
 ### Framework and Dev Environment
-#### [Ape](https://docs.apeworx.io/ape/stable/userguides/quickstart.html)
+#### [Ape](https://docs.apeworx.io/ape)
 #### [Foundry](https://getfoundry.sh/)
 #### [Scaffold-ETH](https://scaffoldeth.io/)
 
