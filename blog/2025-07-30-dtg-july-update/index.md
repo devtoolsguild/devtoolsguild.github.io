@@ -40,7 +40,7 @@ _**TL;DR**: Ethereum and Solidity turn ten.  Ethereum Foundation, Optimism's Ret
 #### [Web3j](https://docs.web3j.io/)
 
 ### Framework and Dev Environment
-#### [Ape](https://docs.apeworx.io/ape/stable/userguides/quickstart.html)
+#### [Ape](https://docs.apeworx.io/ape)
 * Ape [v0.8.37](https://github.com/ApeWorX/ape/releases/tag/v0.8.37)
 * Uniswap SDK v0.3 released, including new solver implementation and `uni` cli
 
