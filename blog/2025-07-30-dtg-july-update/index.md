@@ -41,13 +41,17 @@ _**TL;DR**: Ethereum and Solidity turn ten.  Ethereum Foundation, Optimism's Ret
 
 ### Framework and Dev Environment
 #### [Ape](https://docs.apeworx.io/ape/stable/userguides/quickstart.html)
+* Ape [v0.8.37](https://github.com/ApeWorX/ape/releases/tag/v0.8.37)
+* Uniswap SDK v0.3 released, including new solver implementation and `uni` cli
+
 #### [Foundry](https://getfoundry.sh/)
 #### [Scaffold-ETH](https://scaffoldeth.io/)
 
 ### Standardisation Tooling
 #### [Sourcify](https://sourcify.dev/)
-* Almost [8 million contracts verified](https://sourcify.dev/), including over 1 million on mainnet.
+* New [Verification UI](https://verify.sourcify.dev): uses Sourcify APIv2 for clear error messages, onchain vs recompiled diffs, one-click GitHub issue reporting for failures, Etherscan import and supports both Solidity + Vyper.
 * [Otterscan](https://x.com/otterscan/status/1944891894192070812) integrated Sourcify APIv2 to link revert traces to verified contract code.
+* [8.2 million contracts verified](https://sourcify.dev/), including 1.2 million on mainnet.
 
 ## Ethereum Layer 1
 
