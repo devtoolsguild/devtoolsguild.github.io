@@ -24,62 +24,61 @@ _**TL;DR**: Ethereum and Solidity turn ten.  Ethereum Foundation, Optimism's Ret
 * Learn about current priorities and upcoming changes in the weekly [Language Design calls](https://meet.solidity.org) (Wednesdays 13:00 UTC).
 
 #### [Vyper](https://vyperlang.org/)
+* [Vyper EthCC workshop](https://github.com/vyperlang/vyper-workshop#readme): basic - deploy a token with Snekmate or advanced - Venom IR optimization
 
 ### Client Library
 #### [alloy](https://alloy.rs/)
 * alloy [1.0.18](https://github.com/alloy-rs/alloy/releases/tag/v1.0.18) - [1.0.23](https://github.com/alloy-rs/alloy/releases/tag/v1.0.23)
 
-#### [ethers.js](https://ethers.org/)
-#### [Nethereum](https://nethereum.com/)
 #### [viem](https://viem.sh/)
-* viem [2.31.7](https://github.com/wevm/viem/releases/tag/viem%402.31.7) - [2.33.0](https://github.com/wevm/viem/releases/tag/viem%402.33.0): includes [initial support for Flashblocks](https://x.com/_jxom/status/1946961084125954476) (up to 200ms transaction preconfirmations)
+* viem [2.31.7](https://github.com/wevm/viem/releases/tag/viem%402.31.7) - [2.33.0](https://github.com/wevm/viem/releases/tag/viem%402.33.1): includes [initial support for Flashblocks](https://x.com/_jxom/status/1946961084125954476) (up to 200ms transaction preconfirmations)
 
 #### [web3.py](https://web3py.readthedocs.io/)
 * web3.py [v7.12.1](https://web3py.readthedocs.io/en/latest/release_notes.html#web3-py-v7-12-1-2025-07-14)
 
 #### [Web3j](https://docs.web3j.io/)
+* [Two mentorships have started](https://blog.web3labs.com/web3j-mentorship-2025-meet-the-mentees/) and are currently ongoing
 
 ### Framework and Dev Environment
 #### [Ape](https://docs.apeworx.io/ape)
-* Ape [v0.8.37](https://github.com/ApeWorX/ape/releases/tag/v0.8.37)
-* Uniswap SDK v0.3 released, including new solver implementation and `uni` cli
+* Uniswap SDK [v0.3.0](https://github.com/ApeWorX/uniswap-sdk/releases/tag/v0.3.0): includes new solver implementation and `uni` CLI
 
 #### [Foundry](https://getfoundry.sh/)
-* Foundry [v1.3.0-rc1](https://github.com/foundry-rs/foundry/releases/tag/v1.3.0-rc1) - [v1.3.0-rc2](https://github.com/foundry-rs/foundry/releases/tag/v1.3.0-rc2) 
+* Foundry [v1.3.0-rc1](https://github.com/foundry-rs/foundry/releases/tag/v1.3.0-rc1) - [v1.3.0-rc3](https://github.com/foundry-rs/foundry/releases/tag/v1.3.0-rc3): includes `forge lint` support, time-based campaigns and coverage-guided fuzzing for invariant tests, table tests, fork test improvements for Reth clients and new EIP-712 features
 
 #### [Scaffold-ETH](https://scaffoldeth.io/)
-* [create-eth v1](https://github.com/scaffold-eth/create-eth/releases) cli launched! (currently [v1.0.2](https://github.com/scaffold-eth/create-eth/releases/tag/v1.0.2)): Now more flexible and customizable, allowing extension developers to build more powerful extensions on top of Scaffold-ETH
+* [create-eth v1](https://github.com/scaffold-eth/create-eth/releases) CLI launched.  (currently [v1.0.2](https://github.com/scaffold-eth/create-eth/releases/tag/v1.0.2)): more flexible/customizable, allowing extension developers to build more powerful extensions on top of Scaffold-ETH
 
 ### Standardisation Tooling
 #### [Sourcify](https://sourcify.dev/)
-* New [Verification UI](https://verify.sourcify.dev): uses Sourcify APIv2 for clear error messages, onchain vs recompiled diffs, one-click GitHub issue reporting for failures, Etherscan import and supports both Solidity + Vyper.
+* New [Verification UI](https://verify.sourcify.dev): uses Sourcify APIv2 for clear error messages, onchain vs recompiled diffs and one-click GitHub issue reporting for failures.
 * [Otterscan](https://x.com/otterscan/status/1944891894192070812) integrated Sourcify APIv2 to link revert traces to verified contract code.
-* [8.2 million contracts verified](https://sourcify.dev/), including 1.2 million on mainnet.
+* [8.5 million contracts verified](https://sourcify.dev/), includes 1.2 million on mainnet.
 
 ## Ethereum Layer 1
 
 Ethereum turns ten. :cake:
 
 ### Gas limit increase
-* Gas limit on mainnet can be raised to 45M, with ~47% of validators [signaling for 45M](https://gaslimit.pics/).
+* Gas limit on mainnet can be raised to 45M, with ~48% of validators [signaling for 45M](https://gaslimit.pics/).
 
 ### History expiry
 * [Partial history expiry](https://blog.ethereum.org/2025/07/08/partial-history-exp): nodes can run without pre-Merge data, saving 300-500GB in disk space.
 
 ### [Fusaka upgrade](https://forkcast.org/upgrade/fusaka) (target Q4 2025)
 
-* Ideally upgrade mainnet before [Devconnect](https://devconnect.org/) (17-22 November) but timeline is tight.  
+* Ideally targeting mainnet before [Devconnect](https://devconnect.org/) (17-22 November) but timeline is tight.  
 * Headliner is L2 scaling via [PeerDAS](https://forkcast.org/upgrade/fusaka#eip-7594) and [Blob parameter only upgrades](https://forkcast.org/upgrade/fusaka#eip-7892).
-* [EIP7907](https://eips.ethereum.org/EIPS/eip-79077) (increase contract code size) was unfortunately removed, due to [unresolved complexity & timeline risks](https://ethereum-magicians.org/t/allcoredevs-execution-acde-216-july-17-2025/24770/4)
-* [Fusaka-devnet-3](https://fusaka-devnet-3.ethpandaops.io/) ([specs](https://notes.ethereum.org/@ethpandaops/fusaka-devnet-3)) launched 23 July.
+* [EIP7907](https://eips.ethereum.org/EIPS/eip-79077) which increase contract code size cap was unfortunately removed, due to [unresolved complexity & timeline risks](https://ethereum-magicians.org/t/allcoredevs-execution-acde-216-july-17-2025/24770/4)
+* Current devnet: [Fusaka-devnet-3](https://fusaka-devnet-3.ethpandaops.io/) ([specs](https://notes.ethereum.org/@ethpandaops/fusaka-devnet-3))
 
 ### [Glamsterdam upgrade](https://forkcast.org/upgrade/glamsterdam) (target 2026)
 
 * Glamsterdam [proposed headliners](https://forkcast.org/upgrade/glamsterdam#headliner-options) & [client team perspectives](https://forkcast.org/upgrade/glamsterdam#client-team-perspectives): 
+  * [Stakeholder feedback](https://ethereum-magicians.org/t/soliciting-stakeholder-feedback-on-glamsterdam-headliners/24885) wanted
   * Execution layer client teams favor [block level access lists](https://forkcast.org/upgrade/glamsterdam#eip-7928) (BALs) (+ repricing)
-  * Consensus layer client teams favor [ePBS](https://forkcast.org/upgrade/glamsterdam#eip-7732), potentially with [FOCIL](https://forkcast.org/upgrade/glamsterdam#eip-7805)
-* EIPs (non-headliners) can be proposed for inclusion by adding a PR to the [upgrade meta EIP](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7773.md#proposed-for-inclusion)
-
+  * Consensus layer headliner short list: [EIP7732](https://forkcast.org/upgrade/glamsterdam#eip-7732) ePBS, [EIP7782](https://forkcast.org/upgrade/glamsterdam#eip-7782) Six second slots & [EIP7805](https://forkcast.org/upgrade/glamsterdam#eip-7805) FOCIL
+* EIPs (non-headliners) can be proposed for inclusion via PRs to [upgrade meta EIP](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7773.md#proposed-for-inclusion)
 
 ---
 
