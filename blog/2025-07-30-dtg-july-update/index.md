@@ -3,7 +3,6 @@ slug: devtoolsguild-july-update
 title: Dev Tools Guild July update
 authors: [abcoathup]
 tags: [update]
-draft: true
 ---
 
 # Dev Tools Guild July update
