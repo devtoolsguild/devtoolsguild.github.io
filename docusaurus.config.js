@@ -87,7 +87,19 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/devtoolsguild/devtoolsguild.github.io',
-            label: 'GitHub',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
+            position: 'right',
+          },
+          {
+            href: 'https://x.com/devtoolsguild',
+            className: 'header-twitter-link',
+            'aria-label': 'X (Twitter) profile',
+            position: 'right',
+          },
+          {
+            to: '/',
+            className: 'custom-margin-right',
             position: 'right',
           },
         ],
