@@ -5,4 +5,8 @@ launch:
 update:
   label: Monthly update
   permalink: /update
-  description: Dev Tools Guild monthly updaate
+  description: Dev Tools Guild monthly update
+open-source:
+  label: Open source
+  permalink: /open-source
+  description: Open source
