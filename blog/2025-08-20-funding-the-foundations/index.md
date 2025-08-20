@@ -5,6 +5,8 @@ authors: [conor]
 tags: [open-source]
 ---
 
+# Funding the Foundations - Why Web3 Needs a Better Model for Open Source
+
 Open source has powered the internet since the beginning, but the people building and maintaining it have often been left behind.
 
 <!-- truncate -->
