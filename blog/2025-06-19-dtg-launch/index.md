@@ -78,6 +78,12 @@ Donate: [donate.devtoolsguild.eth](https://etherscan.io/address/donate.devtoolsg
 
 # Quotes
 
+*While operating in a different context than Protocol Guild, I'm excited to see guild experiments break new ground & help us understand the design space for allocating to categories of common goods*
+
+\- **[Trent Van Epps](https://x.com/trent_vanepps) (Protocol Guild}**
+
+---
+
 *For Ethereum to scale beyond enthusiasts and into mainstream enterprise use, its tooling layer must be robust, maintained, and aligned. The Dev Tools Guild tackles that challenge head-on. At the EEA, we’ve backed open-source infrastructure through public goods donations and are excited to see this coordinated effort take shape. It fills a key gap between protocol evolution and real-world deployment.*
 
 \- **[Redwan Meslem](https://x.com/RedoudouM) (Executive Director, Enterprise Ethereum Alliance)**
