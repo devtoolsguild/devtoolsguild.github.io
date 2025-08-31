@@ -29,14 +29,14 @@ _**TL;DR**: Solidity Summit 2025 in Buenos Aires, Vyper granted $50,000 from ENS
 * alloy [v1.0.24](https://github.com/alloy-rs/alloy/releases/tag/v1.0.24) - [v1.0.27](https://github.com/alloy-rs/alloy/releases/tag/v1.0.27).
 
 #### [viem](https://viem.sh/)
-* viem [2.33.3](https://github.com/wevm/viem/releases/tag/viem%402.33.3) - [2.36.0](https://github.com/wevm/viem/releases/tag/viem%402.36.0)
+* viem [2.33.3](https://github.com/wevm/viem/releases/tag/viem%402.33.3) - [2.36.0](https://github.com/wevm/viem/releases/tag/viem%402.36.0).
 
 #### [web3.py](https://web3py.readthedocs.io/)
 * web3.py [v7.13.0](https://web3py.readthedocs.io/en/latest/release_notes.html#web3-py-v7-13-0-2025-08-04): support parallelization of subscription handling globally and per-subscription.
 
 ### Frameworks and Dev Environments
 #### [Ape Framework](https://docs.apeworx.io/ape)
-* [ape-erpc](https://github.com/ApeWorX/ape-erpc#readme) (plugin): use any supported network on your instance via Ape
+* [ape-erpc](https://github.com/ApeWorX/ape-erpc#readme) (plugin): use any supported network on your instance via Ape.
 
 #### [Foundry](https://getfoundry.sh/)
 * Foundry [v1.3.0](https://github.com/foundry-rs/foundry/releases/tag/v1.3.0): includes `forge lint` support, time-based campaigns and coverage-guided fuzzing for invariant tests, table tests, fork test improvements for Reth clients and new EIP-712 features.
@@ -62,7 +62,7 @@ _**TL;DR**: Solidity Summit 2025 in Buenos Aires, Vyper granted $50,000 from ENS
 
 ### Gas limit increase
 
-* [Blockers](https://github.com/NethermindEth/eth-perf-research/blob/main/README.md#60-mgas) to increasing the gas limit to 60M (up from 45M) are being worked through.
+* [Blockers](https://github.com/NethermindEth/eth-perf-research/blob/main/README.md#60-mgas) are being worked through to increase the gas limit to 60M (up from 45M).
 
 ### [Fusaka upgrade](https://forkcast.org/upgrade/fusaka) (target Q4 2025)
 
@@ -71,7 +71,7 @@ _**TL;DR**: Solidity Summit 2025 in Buenos Aires, Vyper granted $50,000 from ENS
 * The current [upgrade process](https://github.com/ethereum/pm/blob/master/processes/protocol-upgrade.md) specifies 30 days between client releases being available & upgrading the first testnet and 30 days between upgrading the last testnet & mainnet.  Timing requirements are being checked with Layer 2s and infrastructure teams.
 * Current devnet: [Fusaka-devnet-3](https://fusaka-devnet-3.ethpandaops.io/) ([specs](https://notes.ethereum.org/@ethpandaops/fusaka-devnet-3)).  
 * Fusaka-devnet-5 ([specs](https://notes.ethereum.org/@ethpandaops/fusaka-devnet-5)): short lived devnet planned for early September.  It will launch once syncing issues discovered during non-finality testing are fixed & retested and consensus layer client teams have [merged to trunk branches](https://github.com/ethpandaops/fusaka-devnets/blob/master/ansible/inventories/devnet-3/group_vars/all/images.yaml#L1-L9).
-* [Fusaka audit contest](https://x.com/sherlockdefi/status/1961019516512780624) with up to $2M in rewards starts September 15
+* [Fusaka audit contest](https://x.com/sherlockdefi/status/1961019516512780624) with up to $2M in rewards starts September 15.
 
 ### Holešky testnet
 
@@ -80,8 +80,8 @@ _**TL;DR**: Solidity Summit 2025 in Buenos Aires, Vyper granted $50,000 from ENS
 ### [Glamsterdam upgrade](https://forkcast.org/upgrade/glamsterdam) (target 2026)
 
 * Headliners: 
-  * Consensus layer: [EIP7732 ePBS](https://forkcast.org/upgrade/glamsterdam#eip-7732)
-  * Execution layer: [EIP7928 Block-level Access Lists](https://forkcast.org/upgrade/glamsterdam#eip-7928)
+  * Consensus layer: [EIP7732 ePBS](https://forkcast.org/upgrade/glamsterdam#eip-7732).
+  * Execution layer: [EIP7928 Block-level Access Lists](https://forkcast.org/upgrade/glamsterdam#eip-7928).
 * Non-headliners:
   * EIPs are being [proposed for inclusion](https://forkcast.org/upgrade/glamsterdam#proposed-for-inclusion) (18 so far), with client teams specifying which EIPs they want more info on.  
   * Deadline for proposals is Fusaka mainnet releases (October/November). 
