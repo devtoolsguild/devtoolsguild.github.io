@@ -7,7 +7,7 @@ tags: [update]
 
 # Dev Tools Guild August update
 
-_**TL;DR**: Optimism's Retro Funding continues to support member projects._
+_**TL;DR**: Solidity Summit 2025 in Buenos Aires, Vyper granted $50,000 from ENS public goods, Optimism's Retro Funding continues to support member projects._
 
 <!-- truncate -->
 
@@ -53,7 +53,7 @@ _**TL;DR**: Optimism's Retro Funding continues to support member projects._
 
 ### Ethereum Foundation
 
-* Updates on EF Protocol strategic initiatives: [Scale L1](https://blog.ethereum.org/2025/08/05/protocol-update-001), [Scable blobs](https://blog.ethereum.org/2025/08/22/protocol-update-002) and [Improve UX](https://blog.ethereum.org/2025/08/29/protocol-update-003).  EF Protocol also held an [AMA](https://www.reddit.com/r/ethereum/comments/1n1cyd3/ama_we_are_ef_protocol_pt_14_29_august_2025/) on r/Ethereum subreddit.
+* Updates on EF Protocol strategic initiatives: [Scale L1](https://blog.ethereum.org/2025/08/05/protocol-update-001), [Scale blobs](https://blog.ethereum.org/2025/08/22/protocol-update-002) and [Improve UX](https://blog.ethereum.org/2025/08/29/protocol-update-003).  EF Protocol also held an [AMA](https://www.reddit.com/r/ethereum/comments/1n1cyd3/ama_we_are_ef_protocol_pt_14_29_august_2025/) on r/Ethereum subreddit.
 * Justin Drake's [lean Ethereum](https://blog.ethereum.org/2025/07/31/lean-ethereum) vision for the next 10 years covering both defense (fort mode) and offense (beast mode).
 * Trillion Dollar Security project [phase 2](https://blog.ethereum.org/2025/08/20/trillion-dollar-sec-2): plans for a wallet minimum security standard, improving blind signing and a contract vulnerability database.
 * [The Proximity Prize](https://proximityprize.org/): $1M in prizes to prove/disprove Reed-Solomon proximity gaps conjectures, to advance the foundations of modern zkVMs.
