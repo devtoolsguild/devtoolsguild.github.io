@@ -83,7 +83,8 @@ _**TL;DR**: Solidity Summit 2025 in Buenos Aires, Vyper granted $50,000 from ENS
   * Consensus layer: [EIP7732 ePBS](https://forkcast.org/upgrade/glamsterdam#eip-7732).
   * Execution layer: [EIP7928 Block-level Access Lists](https://forkcast.org/upgrade/glamsterdam#eip-7928).
 * Non-headliners:
-  * EIPs are being [proposed for inclusion](https://forkcast.org/upgrade/glamsterdam#proposed-for-inclusion) (18 so far), with client teams specifying which EIPs they want more info on.  
+  * EIPs are being [proposed for inclusion](https://forkcast.org/upgrade/glamsterdam#proposed-for-inclusion) (18 so far), with client teams specifying which EIPs they want more info on.
+  * [Rank non-headliner EIPs on Forkcast](https://forkcast.org/rank) and share on socials to signal your priorities. 
   * Deadline for proposals is Fusaka mainnet releases (October/November). 
 
 ---
