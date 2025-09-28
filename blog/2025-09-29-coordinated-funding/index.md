@@ -7,13 +7,15 @@ tags: [open-source]
 
 # Why the Future of Funding is Coordinated
 
+_**TL;DR**: The future of Ethereum funding isn’t bigger grants, it’s smarter coordination. From the Dev Tools Guild to Gitcoin, ENS DAO, Optimism & Octant, the ecosystem is aligning to amplify impact and sustain the tools we all rely on._
+
+<!-- truncate -->
+
 When we set out to establish the Dev Tools Guild, one of our core beliefs was that the funding landscape for Ethereum’s open-source infrastructure has historically been too fragmented.
 
 Funders have tended to spin up siloed programs, often designed to incentivise building around their own tokens. Developers in turn have had to apply individually to each of these programs, navigating different requirements, timelines, and expectations.
 
 This approach is inefficient for everyone. Funders spend significant time reviewing overlapping applications, while projects are forced to divert attention away from building in order to chase multiple, often small, grants.
-
-<!-- truncate -->
 
 ## Enter the Guild
 
