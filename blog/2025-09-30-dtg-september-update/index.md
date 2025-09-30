@@ -32,6 +32,9 @@ _**TL;DR**: Fusaka upgrade on testnets in October, ENS DAO granted $75k to Argot
 #### [viem](https://viem.sh/)
 * viem [2.36.1](https://github.com/wevm/viem/releases/tag/viem%402.36.1) - [2.37.9](https://github.com/wevm/viem/releases/tag/viem%402.37.9).
 
+#### [Web3j](https://docs.web3j.io/)
+* Web3j [5.0.1](https://github.com/LFDT-web3j/web3j/releases/tag/v5.0.1).
+
 ### Frameworks and Dev Environments
 #### [Foundry](https://getfoundry.sh/)
 * Foundry [v1.3.1](https://github.com/foundry-rs/foundry/releases/tag/v1.3.1) - [v1.3.6](https://github.com/foundry-rs/foundry/releases/tag/v1.3.6) 
