@@ -23,63 +23,66 @@ _**TL;DR**: Fusaka upgrade on mainnet December 3, Gitcoin Grants 24 included qua
   * [Call for feedback](https://forum.soliditylang.org/t/call-for-feedback-the-long-term-solidity-roadmap/3530).
 * Solidity added [pre-releases](https://x.com/solidity_lang/status/1979169207016153111) for developers to try out experimental features: 
   * Solidity [v0.8.31-pre.1](https://github.com/argotorg/solidity/releases/tag/v0.8.31-pre.1): adds EIP-7939 CLZ opcode support which results in cheaper compute & ZK proving costs and smaller bytecode size.
-* [Solidity Summit](https://www.soliditylang.org/summit/) November 18 at Devconnect in Buenos Aires: apply for your ticket to attend.
+* [Solidity Summit](https://www.soliditylang.org/summit/) November 18 at Devconnect in Buenos Aires: apply for your ticket.  
+  * [First round of Solidity Summit speakers](https://x.com/solidity_lang/status/1983530272953090399).
 
 #### [Vyper](https://vyperlang.org/)
 * [Institutional adoption of Vyper](https://www.youtube.com/watch?v=gzlxgMNqDz8) presentation at Stablecoin Summit.
+* Vyper joined the [Circle Alliance Program](https://x.com/vyperlang/status/1983557292290437611).
 
 ### Client Libraries
 #### [alloy](https://alloy.rs/) (Rust)
-* alloy [v1.0.38](https://github.com/alloy-rs/alloy/releases/tag/v1.0.38) - [v1.0.41](https://github.com/alloy-rs/alloy/releases/tag/v1.0.41).
+* alloy [v1.0.38](https://github.com/alloy-rs/alloy/releases/tag/v1.0.38) - [v1.0.42](https://github.com/alloy-rs/alloy/releases/tag/v1.0.42).
 
 #### [viem](https://viem.sh/) (TypeScript)
-* viem [2.37.10](https://github.com/wevm/viem/releases/tag/viem%402.37.10) - [2.38.5](https://github.com/wevm/viem/releases/tag/viem%402.38.5); v2.38.0 added `sendTransactionSync`, `sendRawTransactionSync`, `writeContractSync` and `sendCallsSync`.
-* App devs using [viem & wagmi for ENS resolution](https://x.com/gregskril/status/1975302868078109068) should update to v2.35+ for automatic support when ENSv2 launches.
+* viem [2.37.10](https://github.com/wevm/viem/releases/tag/viem%402.37.10) - [2.38.6](https://github.com/wevm/viem/releases/tag/viem%402.38.6); v2.38.0 added `sendTransactionSync`, `sendRawTransactionSync`, `writeContractSync` and `sendCallsSync`.
+* App developers using [viem & wagmi for ENS resolution](https://x.com/gregskril/status/1975302868078109068) should update to v2.35+ for automatic support when ENSv2 launches.
 
 ### Frameworks and Dev Environments
 #### [Ape Framework](https://docs.apeworx.io/ape)
 * Ape Framework [adding support for Python 3.14](https://x.com/ApeFramework/status/1976413892399202816) (where possible) and deprecating support for Python 3.9 (end of life).
-* ape-safe MultiSend [add from receipt](https://x.com/fubuloubu/status/1980346349548892593): improves creating multi-step calls in Safe.
 
 #### [Foundry](https://getfoundry.sh/)
-* Foundry [v1.3.7](https://github.com/foundry-rs/foundry/releases/tag/v1.3.7) - [v1.4.3](https://github.com/foundry-rs/foundry/releases/tag/v1.4.3); v1.4.0 is Fusaka upgrade ready, forge is published as an npm package, improves performance up to 11% for forge coverage & fuzzed tests, adds a formatter built on Solar, improved handling of multichain configs and deployments and improved testing/debugging with backtraces & custom network precompiles.
+* Foundry [v1.3.7](https://github.com/foundry-rs/foundry/releases/tag/v1.3.7) - [v1.4.4](https://github.com/foundry-rs/foundry/releases/tag/v1.4.4) 
+  * v1.4.0 is Fusaka upgrade ready, `forge` is published as an npm package, improves performance up to 11% for `forge coverage` & fuzzed tests, adds a formatter built on Solar, improved handling of multichain configs and deployments and improved testing/debugging with backtraces & custom network precompiles.
 
 ### Standardisation Tooling
 #### [Sourcify](https://sourcify.dev/)
 * Remix [v1.1.0](https://ethereumremix.substack.com/p/remix-release-v1-1-0) adds Deploy & Verify: verify when deploying contracts with all verifiers.
-* samczsun's [openchain signature database](https://x.com/SourcifyEth/status/1980657962990600647) being taken over by Sourcify.
+* Sourcify took over samczsun's [openchain 4byte signature APIs](https://x.com/SourcifyEth/status/1980657962990600647).
+  * [Analyzing 4byte selector collisions](https://docs.sourcify.dev/blog/signatures-analysis/) shows 648 non-spam collisions.
 
 ## Ethereum Layer 1
 
 ### Gas limit increase
 
-* Clients are increasing default gas limit to 60M (up from 45M): Erigon [v3.2.1](https://github.com/erigontech/erigon/releases/tag/v3.2.1), Nethermind [v1.35.0](https://github.com/NethermindEth/nethermind/releases/tag/1.35.0) and Teku [25.10.0](https://github.com/Consensys/teku/releases/tag/25.10.0).
+* Clients increased default gas limit to 60M (up from 45M): Erigon [v3.2.1](https://github.com/erigontech/erigon/releases/tag/v3.2.1), Geth [v1.16.4](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.4), Nethermind [v1.35.0](https://github.com/NethermindEth/nethermind/releases/tag/1.35.0), Reth [v1.4.8](https://github.com/paradigmxyz/reth/releases/tag/v1.4.8) and Teku [25.10.0](https://github.com/Consensys/teku/releases/tag/25.10.0).
 
 
 ### :zebra: [Fusaka upgrade](https://forkcast.org/upgrade/fusaka) (December 3 2025)
 
-* Headliner: L2 scaling via [EIP7594 PeerDAS](https://forkcast.org/upgrade/fusaka#eip-7594) and [EIP7892 Blob parameter only upgrades](https://forkcast.org/upgrade/fusaka#eip-7892).
-* mainnet upgrades to Fusaka on December 3.
+* Headliner: L2 scaling via [EIP-7594 PeerDAS](https://forkcast.org/upgrade/fusaka#eip-7594) and [EIP-7892 Blob parameter only upgrades](https://forkcast.org/upgrade/fusaka#eip-7892).
+* [mainnet upgrades to Fusaka](https://ethereum-magicians.org/t/all-core-devs-consensus-acdc-168-october-30-2025/25893/2) on December 3.
 * [Blob Parameter Only (BPO) upgrades](https://notes.ethereum.org/@bbusa/fusaka-bpo-timeline) (increase blobs per block target and maximum parameters):
     * BPO1: 10/15 (target/max blobs per block) December 9.
     * BPO2: 14/21 (target/max blobs per block) January 7, 2026.
 * Holešky, Sepolia & Hoodi testnets were all successfully upgraded.
-* [Fusaka $2M audit contest](https://blog.ethereum.org/2025/09/15/fusaka-audit-content) ended, nothing to cause postponing upgrade.
+* [Fusaka $2M audit contest](https://blog.ethereum.org/2025/09/15/fusaka-audit-content) ended, no issues requiring postponement of the upgrade.
 * Note for devs: 
-  * [EIP-7825: transaction gas limit cap](https://blog.ethereum.org/2025/10/21/fusaka-gascap-update) of ~16.8M gas
+  * EIP-7825: [transaction gas limit cap](https://blog.ethereum.org/2025/10/21/fusaka-gascap-update) of ~16.8M gas.
   * EIP-7594: PeerDAS [changes format for proofs](https://blog.ethereum.org/2025/10/15/fusaka-blob-update) from blob proofs to cell proofs.
 
 ### [Glamsterdam upgrade](https://forkcast.org/upgrade/glamsterdam) (target 2026)
 
 * Headliners: 
-  * Consensus layer: [EIP7732 ePBS](https://forkcast.org/upgrade/glamsterdam#eip-7732).
-  * Execution layer: [EIP7928 Block-level Access Lists](https://forkcast.org/upgrade/glamsterdam#eip-7928).
+  * Consensus layer: [EIP-7732 ePBS](https://forkcast.org/upgrade/glamsterdam#eip-7732).
+  * Execution layer: [EIP-7928 Block-level Access Lists](https://forkcast.org/upgrade/glamsterdam#eip-7928).
 * Non-headliners:
-  * EIPs [proposed for inclusion](https://forkcast.org/upgrade/glamsterdam#proposed-for-inclusion) (30+) will be reviewed by client teams.
+  * EIPs [proposed for inclusion](https://forkcast.org/upgrade/glamsterdam#proposed-for-inclusion) (40+) are being reviewed by client teams to define scope.
   * [Rank non-headliner EIPs on Forkcast](https://forkcast.org/rank) and share on socials to signal your priorities. 
 
-### H-star + Bogotá upgrade
-* [H-star](https://ethereum-magicians.org/t/h-star-name-for-consensus-layer-upgrade-after-glamsterdam/24298) name needed, signal your favourite in the poll.
+### Heka + Bogotá upgrade
+* [Heka](https://ethereum-magicians.org/t/all-core-devs-consensus-acdc-168-october-30-2025/25893/2) selected as H-star name.
 
 ### Holešky testnet
 * [Holešky was deprecated](https://blog.ethereum.org/2025/09/01/holesky-shutdown-announcement) after upgrading to Fusaka, BPO1 & BPO2 and is no longer finalizing.  Migrate to Hoodi testnet for infrastructure testing or Sepolia testnet for app layer testing.
@@ -88,7 +91,7 @@ _**TL;DR**: Fusaka upgrade on mainnet December 3, Gitcoin Grants 24 included qua
 * Ethereum Foundation [expanding privacy efforts](https://blog.ethereum.org/2025/10/08/privacy-commitment): initiatives include private reads & writes, private proving, private identities, privacy experince, institutional privacy task force and [Kohaku](https://notes.ethereum.org/@niard/KohakuRoadmap) (wallet SDK & reference implementation of a browser extension).
 
 ### EF internships
-* [2026 EF Internships](https://blog.ethereum.org/2025/10/14/internship-2026): 12 weeks over Northern hemisphere summer, applications close December 1.
+* [2026 EF Internships](https://blog.ethereum.org/2025/10/14/internship-2026): 12 weeks over northern hemisphere summer, applications close December 1.
 
 ---
 
