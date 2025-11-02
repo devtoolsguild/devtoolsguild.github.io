@@ -38,6 +38,9 @@ _**TL;DR**: Fusaka upgrade on mainnet December 3, Gitcoin Grants 24 included qua
 * viem [2.37.10](https://github.com/wevm/viem/releases/tag/viem%402.37.10) - [2.38.6](https://github.com/wevm/viem/releases/tag/viem%402.38.6); v2.38.0 added `sendTransactionSync`, `sendRawTransactionSync`, `writeContractSync` and `sendCallsSync`.
 * App developers using [viem & wagmi for ENS resolution](https://x.com/gregskril/status/1975302868078109068) should update to v2.35+ for automatic support when ENSv2 launches.
 
+### [Web3j](https://docs.web3j.io/)
+* [ERC-4337 smart account tutorial](https://www.lfdecentralizedtrust.org/blog/erc-4337-smart-account-tutorial-with-web3j): create, deploy & interact with smart accounts using Web3j.
+
 ### Frameworks and Dev Environments
 #### [Ape Framework](https://docs.apeworx.io/ape)
 * Ape Framework [adding support for Python 3.14](https://x.com/ApeFramework/status/1976413892399202816) (where possible) and deprecating support for Python 3.9 (end of life).
