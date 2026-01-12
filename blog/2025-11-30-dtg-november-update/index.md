@@ -20,7 +20,7 @@ _**TL;DR**: 60M gas limit, mainnet upgrades to Fusaka on December 3 and Optimism
 ### Smart Contract Languages
 #### [Solidity](https://soliditylang.org/) 
 * [Core Solidity deep dive](https://www.soliditylang.org/blog/2025/11/14/core-solidity-deep-dive/).  [Feedback](https://forum.soliditylang.org/t/call-for-feedback-core-solidity-deep-dive/3643) on the Solidity forum.
-* Solidity is in [Octant Epoch 10](https://x.com/OctantApp/status/1993802455038218415) (top 25 projects from nine epochs), allocation is January 6-26, 2026.
+* Solidity is in [Octant Epoch 10](https://x.com/OctantApp/status/1993802455038218415) (top 25 projects from nine epochs), allocation is January 6-20, 2026.
 
 #### [Vyper](https://vyperlang.org/)
 * [Mastering Ethereum](https://masteringethereum.xyz/) second edition: [Vyper chapter](https://masteringethereum.xyz/chapter_8.html).

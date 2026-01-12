@@ -23,7 +23,7 @@ _**TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Fun
 * Solidity [v0.8.32/33](https://www.soliditylang.org/blog/2025/12/18/solidity-0.8.32-0.8.33-release-announcement): fix for [lost storage array write on slot overflow](https://www.soliditylang.org/blog/2025/12/18/lost-storage-array-write-on-slot-overflow-bug/).
 * [Solidity Summit recap](https://www.soliditylang.org/blog/2025/12/04/solidity-summit-2025-recap/): recordings and slides from Devconnect.
 * [2025 recap](https://x.com/argotorg/status/2005987291194651129).
-* Reminder: Solidity is in [Octant Epoch 10](https://x.com/OctantApp/status/1993802455038218415) (top 25 projects from nine epochs), allocation is January 6-26.
+* Reminder: Solidity is in [Octant Epoch 10](https://x.com/OctantApp/status/1993802455038218415) (top 25 projects from nine epochs), allocation is January 6-20.
 
 ### Client Libraries
 #### [alloy](https://alloy.rs/) (Rust)
