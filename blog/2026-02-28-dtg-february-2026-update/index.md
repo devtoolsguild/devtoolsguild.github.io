@@ -7,14 +7,14 @@ tags: [update]
 
 # Dev Tools Guild February 2026 update
 
-_**TL;DR**: Solidity developer survey, 20+ million contracts verified on Sourcify and strawmap (strawman roadmap) for next seven network upgrades._
+_**TL;DR**: Annual Solidity developer survey, EF Ecosystem Support Program wishlist: existing dev tooling and strawmap (strawman roadmap) for next seven network upgrades._
 
 <!-- truncate -->
 
 ## Dev Tools Guild members
 
 * Deep Funding (infrastructure & dev tools): [jurors wanted](https://deepfundingjury.com) to evaluate and compare open source projects. Anyone with an ENS name can participate.  Thanks to the [jurors who have already contributed](https://deepfundingjury.com/juror-roll).
-* Octant's [StreamVote](https://streamvote.octant.build/) supporting [ethers.js](https://streamvote.octant.build/project-details/0x8ba1f109551bd432803012645ac136ddd64dba72) (0.7 ETH), [Solidity](https://streamvote.octant.build/project-details/0xe2f7cf9c2b12c0bfcdab571f9e50418fc08f4ad1) (2.2 ETH) and [Vyper](https://streamvote.octant.build/project-details/0xd6e245ba9e1f71e629d6988d225a34542474a56a) (2.5 ETH); pilot streaming ETH via quadratic voting to public goods projects.
+* Octant's [StreamVote](https://streamvote.octant.build/) supporting [ethers.js](https://streamvote.octant.build/project-details/0x8ba1f109551bd432803012645ac136ddd64dba72) (0.7 ETH), [Solidity](https://streamvote.octant.build/project-details/0xe2f7cf9c2b12c0bfcdab571f9e50418fc08f4ad1) (2.2 ETH) and [Vyper](https://streamvote.octant.build/project-details/0xd6e245ba9e1f71e629d6988d225a34542474a56a) (2.6 ETH); pilot streaming ETH via quadratic voting to public goods projects.
 * Argot Collective (including Solidity & Sourcify) [transparency report](https://www.argot.org/reports/transparency-report-2025).
 
 ### Smart Contract Languages
@@ -50,27 +50,28 @@ _**TL;DR**: Solidity developer survey, 20+ million contracts verified on Sourcif
 ### [Glamsterdam upgrade](https://forkcast.org/upgrade/glamsterdam) (target mid 2026)
 
 * Headliners:
-  * Consensus layer: [EIP-7732 ePBS](https://forkcast.org/upgrade/glamsterdam#eip-7732).
-  * Execution layer: [EIP-7928 Block-level Access Lists](https://forkcast.org/upgrade/glamsterdam#eip-7928).
+  * Consensus layer: [EIP-7732 ePBS](https://forkcast.org/eips/7732).
+  * Execution layer: [EIP-7928 Block-level Access Lists](https://forkcast.org/eips/7928).
 * Implementation progress: bal-devnet-3 ([spec](https://notes.ethereum.org/@ethpandaops/bal-devnet-3)) and epbs-devnet-0 ([spec](https://notes.ethereum.org/@ethpandaops/epbs-devnet-0)) targeting early March.
 * Gas repricing: [info website](https://gasrepricing.com/) and [stakeholder survey](https://docs.google.com/forms/d/e/1FAIpQLScmhDCX1I8-RPFL-AEEBJkBkAtbCq_M9quXHspF_OltTbGCGw/viewform).
 
 ### [Hegotá upgrade](https://forkcast.org/upgrade/hegota) (target late 2026)
 
 * Headliners:
-  * Consensus layer: [EIP-7805 FOCIL](https://ethereum-magicians.org/t/hegota-headliner-proposal-focil-eip-7805/27604) (Fork-choice enforced Inclusion Lists).
-  * Execution layer still deciding: [EIP-8141 Frame Transactions](https://ethereum-magicians.org/t/hegota-headliner-proposal-frame-transaction/27618) is leading candidate.
+  * Consensus layer: [EIP-7805 FOCIL](https://forkcast.org/eips/7805) (Fork-choice enforced Inclusion Lists).
+  * Execution layer still deciding: [EIP-8141 Frame Transactions](https://forkcast.org/eips/8141) is leading candidate.
 
 ### Ethereum Foundation (EF)
 
 * [Strawmap](https://strawmap.org/faq): strawman roadmap for next seven network upgrades.
-* EF [leadership update](https://blog.ethereum.org/2026/02/13/leadership-update): Tomasz Stańczak [stepped down](https://blog.ethereum.org/2026/02/13/tomasz-update) as Co-Executive Director; Bastian Aue interim Co-Executive Director.
+* EF [leadership update](https://blog.ethereum.org/2026/02/13/leadership-update): Tomasz Stańczak stepped down as Co-Executive Director; Bastian Aue interim Co-Executive Director.
 * Updated [protocol priorities](https://blog.ethereum.org/2026/02/18/protocol-priorities-update-2026): three tracks - Scale, Improve UX and Harden the L1.
 * EF [treasury staking](https://blog.ethereum.org/2026/02/24/staking): ~70k ETH being staked.
 * New [Platform team](https://blog.ethereum.org/2026/02/17/platform): focused on strongest possible platform (L1 + L2).
 * [Ethereum protocol studies](https://blog.ethereum.org/2026/02/17/ethereum-protocol-studies-26): new cryptography and zkEVM tracks.
 * Ecosystem Support Program wishlist: [existing dev tooling](https://esp.ethereum.foundation/applicants/wishlist/existing-devtool), seeking proposals to sustain, improve & extend existing dev tools, application deadline is April 15.
 * [Project Odin](https://blog.ethereum.org/2026/02/27/project-odin): sustainability planning & execution for strategic EF grantees.  Vyper core team (Foundation for Verified Software) is piloting.
+* EF [commitment to DeFi](https://blog.ethereum.org/2026/02/23/commitment-to-defi): Charles St. Louis (previously led DELV) & ivangbi (previously co-founded Gearbox protocol) are part of the App Relations team.
 
 ---
 
