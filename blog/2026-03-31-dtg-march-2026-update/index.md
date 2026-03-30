@@ -42,14 +42,6 @@ _**TL;DR**: Annual Solidity developer survey, EF Ecosystem Support Program wishl
 
 ## Ethereum Layer 1
 
-### [Glamsterdam upgrade](https://forkcast.org/upgrade/glamsterdam) (target mid 2026)
-
-* Headliners:
-  * Consensus layer: [EIP-7732 ePBS](https://forkcast.org/eips/7732).
-  * Execution layer: [EIP-7928 Block-level Access Lists](https://forkcast.org/eips/7928).
-* Implementation progress: bal-devnet-3 ([spec](https://notes.ethereum.org/@ethpandaops/bal-devnet-3)) and epbs-devnet-0 ([spec](https://notes.ethereum.org/@ethpandaops/epbs-devnet-0)) targeting early March.
-* Gas repricing: [info website](https://gasrepricing.com/) and [stakeholder survey](https://docs.google.com/forms/d/e/1FAIpQLScmhDCX1I8-RPFL-AEEBJkBkAtbCq_M9quXHspF_OltTbGCGw/viewform).
-
 ### Ethereum Foundation (EF)
 
 ---
