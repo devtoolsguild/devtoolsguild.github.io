@@ -25,6 +25,9 @@ _**TL;DR**: BPO2 increases blobs to 14/21 (target/max), Octant Epoch 10 supports
 #### [alloy](https://alloy.rs/) (Rust)
 * alloy [v1.3.0](https://github.com/alloy-rs/alloy/releases/tag/v1.3.0) - [v1.5.2](https://github.com/alloy-rs/alloy/releases/tag/v1.5.2).
 
+#### [Web3j](https://docs.web3j.io/) (Java)
+* web3j [5.0.2](https://github.com/LFDT-web3j/web3j/releases/tag/v5.0.2): added Gradle 9 upgrade, EIP-7702 authorization list support to Transaction, Besu 25.10.0 upgrade and bug fixes.
+
 #### [viem](https://viem.sh/) (TypeScript)
 * viem [v2.43.5](https://github.com/wevm/viem/releases/tag/viem%402.43.5) - [v2.45.1](https://github.com/wevm/viem/releases/tag/viem%402.45.1).
 * wagmi [v3.1.4](https://github.com/wevm/wagmi/releases/tag/wagmi%403.1.4) - [v3.4.1](https://github.com/wevm/wagmi/releases/tag/wagmi%403.4.1).
