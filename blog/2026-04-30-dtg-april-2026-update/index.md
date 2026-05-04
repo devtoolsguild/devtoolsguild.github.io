@@ -18,8 +18,8 @@ _**TL;DR**: Support Vyper & Sourcify in Ethereum security QF round, Solidity 0.8
 ### Smart Contract Languages
 #### [Solidity](https://soliditylang.org/)
 * Solidity [v0.8.35](https://www.soliditylang.org/blog/2026/04/29/solidity-0.8.35-release-announcement/): adds `erc7201` comptime builtin, `--experimental` flag to gate in-development features, experimental SSA CFG codegen and deprecation warnings for upcoming 0.9.0 keywords.
-* [Solidity Developer Survey 2025 results](https://www.soliditylang.org/blog/2026/04/15/solidity-developer-survey-2025-results/): 
-  * Pain points: stack-too-deep 47% , bytecode size limits 33% and debugging 33%.
+* [Solidity Developer Survey 2025 results](https://www.soliditylang.org/blog/2026/04/15/solidity-developer-survey-2025-results/):
+  * Pain points: stack-too-deep 47%, bytecode size limits 33% and debugging 33%.
   * Dev framework usage: Foundry 57% and Hardhat 33%.
   * Client library usage: ethers.js 70%, viem 39% and wagmi 33%.
 
@@ -46,12 +46,12 @@ _**TL;DR**: Support Vyper & Sourcify in Ethereum security QF round, Solidity 0.8
 
 #### [Scaffold-ETH](https://scaffoldeth.io/)
 * SpeedRun Ethereum [build prompts](https://speedrunethereum.com/build-prompts): project specs for AI agents to scaffold apps using Scaffold-ETH 2.
-* Speedrun Ethereum: [Foundry support added](https://x.com/buidlguidl/status/2044836179540131942) for challenges 0 to 4
+* SpeedRun Ethereum: [Foundry support added](https://x.com/buidlguidl/status/2044836179540131942) for challenges 0 to 4.
 
 ### Standardisation Tooling
 #### [Sourcify](https://sourcify.dev/)
 * Kaan Uzdogan: [how Sourcify is reshaping Ethereum contract security](https://www.youtube.com/watch?v=XZDInjWp0Fo) (ECH Institute podcast: ecosystem project demo).
-* EVM now (block explorer) [using Sourcify dataset](https://x.com/evmnow/status/2042735005034778897) to show verified contract source code.
+* EVM Now (block explorer) [using Sourcify dataset](https://x.com/evmnow/status/2042735005034778897) to show verified contract source code.
 
 ## Ethereum Layer 1
 
@@ -70,12 +70,12 @@ _**TL;DR**: Support Vyper & Sourcify in Ethereum security QF round, Solidity 0.8
 
 ### Ethereum Foundation (EF)
 
-* Ecosystem Support Program: 
+* Ecosystem Support Program:
   * [Glamsterdam grants round](https://esp.ethereum.foundation/applicants/wishlist/glamsterdam-round) includes dev tooling.
   * [Q1 allocation](https://blog.ethereum.org/2026/04/29/allocation-q1-26): 57 projects shared $9.9M.
-* Ethereum Protocol Fellowship: 
-  * [EPF cohort 7](https://blog.ethereum.org/2026/04/30/epf-7), apply by May 13. 
-  * [EPF cohort 6 recap](https://ps.ethereum.foundation/blog/epf6-recap)
+* Ethereum Protocol Fellowship:
+  * [EPF cohort 7](https://blog.ethereum.org/2026/04/30/epf-7), apply by May 13.
+  * [EPF cohort 6 recap](https://ps.ethereum.foundation/blog/epf6-recap).
 * EF protocol support: [Checkpoint #9](https://blog.ethereum.org/2026/04/10/checkpoint-9).
 * [ETH Rangers Program recap](https://blog.ethereum.org/2026/04/16/eth-rangers-recap): 17 recipients, $5.8M recovered/frozen, 785+ vulnerabilities reported, 100 state-sponsored operatives identified, 14 bugs found across major execution clients.
 
