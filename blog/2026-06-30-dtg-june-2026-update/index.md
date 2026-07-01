@@ -61,7 +61,7 @@ _**TL;DR**: Argot Collective five year funding, Ethereum Foundation new structur
   * Consensus layer: [EIP-7732 ePBS](https://forkcast.org/eips/7732).
   * Execution layer: [EIP-7928 Block-level Access Lists](https://forkcast.org/eips/7928).
 * [glamsterdam-devnet-6](https://glamsterdam-devnet-6.ethpandaops.io/): launched with remaining EIPs (except [EIP-7688 forward compatible consensus data structures](https://forkcast.org/eips/7688/)).
-* [EIP-8282 builder execution requests](https://forkcast.org/eips/8282/), added to upgrade, system contracts will require external security review, estimated 1-2 months.
+* [EIP-8282 builder execution requests](https://forkcast.org/eips/8282/): Considered for Inclusion, separate builder deposit & exit contracts, system contracts will require external security review (estimated 1-2 months).
 * [Mascot needed](https://ethereum-magicians.org/t/mascot-needed-for-glamsterdam-upgrade/26008), vote on Eth Magicians, closes July 8.
 
 ### [Hegotá upgrade](https://forkcast.org/upgrade/hegota) (target late 2026)
