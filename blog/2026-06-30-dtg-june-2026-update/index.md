@@ -22,7 +22,7 @@ _**TL;DR**: Argot Collective five year funding, Ethereum Foundation new structur
 
 #### [Vyper](https://vyperlang.org/)
 * Vyper [v0.5.0a3](https://github.com/vyperlang/vyper/releases/tag/v0.5.0a3) (prerelease): adds custom errors.
-* [vyupgrade stewarded by Vyper org](https://x.com/vyperlang/status/2071992809964311006) on GitHub.  banteg remaining as maintainer.
+* [vyupgrade stewarded by Vyper org](https://x.com/vyperlang/status/2071992809964311006) on GitHub, with banteg remaining as maintainer.
 
 ### Client Libraries
 #### [alloy](https://alloy.rs/) (Rust)
@@ -43,6 +43,7 @@ _**TL;DR**: Argot Collective five year funding, Ethereum Foundation new structur
 * Ape [website and docs site](https://x.com/ApeFramework/status/2069557840209940711) revamped.
 
 #### [Foundry](https://getfoundry.sh/)
+* forge-std [v1.16.2](https://github.com/foundry-rs/forge-std/releases/tag/v1.16.2).
 
 ### Standardisation Tooling
 #### [Sourcify](https://sourcify.dev/)
@@ -52,7 +53,7 @@ _**TL;DR**: Argot Collective five year funding, Ethereum Foundation new structur
 ## Ethereum Layer 1
 
 * [Strawmap](https://strawmap.org/) (strawman roadmap) updated.
-* [Ethlabs launched](https://ethlabs.org/thesis.html/): non-profit R&D lab for Ethereum and ETH, founded by Ansgar Dietrichs, Barnabé Monnot, Caspar Schwarz-Schilling, Josh Rudolf and Julian Ma.  Anchor funding by Bitmine, Sharplink & Joe Lubin.
+* [Ethlabs launched](https://ethlabs.org/thesis.html): non-profit R&D lab for Ethereum and ETH, founded by Ansgar Dietrichs, Barnabé Monnot, Caspar Schwarz-Schilling, Josh Rudolf and Julian Ma.  Anchor funding by Bitmine, Sharplink & Joe Lubin.
 
 ### [Glamsterdam upgrade](https://forkcast.org/upgrade/glamsterdam) (target H2 2026)
 
@@ -69,7 +70,7 @@ _**TL;DR**: Argot Collective five year funding, Ethereum Foundation new structur
 
 ### Ethereum Foundation
 
-* [EF new structure](https://blog.ethereum.org/2026/06/23/ef-structure): five domain clusters (protocol, access, user, community and institutional) and parted ways with 54 colleagues (~20% of staff) and [~40% budget decrease](https://x.com/VitalikButerin/status/2069431500035023121).
+* [EF new structure](https://blog.ethereum.org/2026/06/23/ef-structure): five domain clusters (protocol, access, user, community and institutional), plus clusters for operations and management.  EF parted ways with 54 colleagues (~20% of staff) and [~40% budget decrease](https://x.com/VitalikButerin/status/2069431500035023121).
 * [Devcon 8 community hub applications](https://forum.devcon.org/t/rfp-13-devcon-8-india-community-hubs/8657) open, August 12 deadline
 ---
 
