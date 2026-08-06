@@ -7,17 +7,17 @@ tags: [update]
 
 # Dev Tools Guild July 2026 update
 
-_**TL;DR**: Solidity 0.8.36 adds Amsterdam EVM support. Sourcify 42M+ verified contracts, Foundry adds symbolic testing_
+_**TL;DR**: Solidity 0.8.36 adds Amsterdam EVM support. Sourcify passes 42M+ verified contracts. Foundry adds symbolic testing._
 
 <!-- truncate -->
 
 ## Dev Tools Guild members
 
-Argot Collective [H1 2026 transparency report](https://www.argot.org/reports/transparency-report-2026-h1), includes Solidity & Sourcify.
+Argot Collective [H1 2026 transparency report](https://www.argot.org/reports/transparency-report-2026-h1) includes Solidity & Sourcify.
 
 ### Smart Contract Languages
 #### [Solidity](https://soliditylang.org/)
-* Solidity [0.8.36](https://www.soliditylang.org/blog/2026/07/09/solidity-0.8.36-release-announcement): adds Amsterdam EVM version support, fixes for medium severity bugs ([unsound spill in mutual recursion](https://www.soliditylang.org/blog/2026/07/09/unsound-spill-in-mutual-recursion-bug/) & [inheritance order reversal on storage end warning](https://www.soliditylang.org/blog/2026/07/09/inheritance-order-reversal-on-storage-end-warning-bug/)) and experimental SSA CFG stack to memory spilling (mitigate stack too deep). 
+* Solidity [0.8.36](https://www.soliditylang.org/blog/2026/07/09/solidity-0.8.36-release-announcement): adds Amsterdam EVM version support, fixes for medium severity bugs ([unsound spill in mutual recursion](https://www.soliditylang.org/blog/2026/07/09/unsound-spill-in-mutual-recursion-bug/) & [inheritance order reversal on storage end warning](https://www.soliditylang.org/blog/2026/07/09/inheritance-order-reversal-on-storage-end-warning-bug/)) and experimental SSA CFG stack to memory spilling (mitigate stack too deep).
 * Argot Collective [Solidity roadmap update](https://www.argot.org/blog/2026-07-01-argot-roadmap-update-2026-2#solidity), Q1/2 review & Q3/4 focus for Classic & Core Solidity.
 * Jacob Czepluch: [What's next for Solidity](https://www.youtube.com/watch?v=1zqv1NiPWQM) & Moritz Hoffmann [Fixing Stack Too Deep](https://www.youtube.com/watch?v=AlIw_bsAju4) Ethereum Day Berlin blockchain week presentations.
 
@@ -30,11 +30,11 @@ Argot Collective [H1 2026 transparency report](https://www.argot.org/reports/tra
 * [viem.sh/tokens](https://viem.sh/tokens): type-safe, chain-aware utilities for interacting with tokens.
 * wagmi [v3.7.0](https://github.com/wevm/wagmi/releases/tag/wagmi%403.7.0) - [v3.7.5](https://github.com/wevm/wagmi/releases/tag/wagmi%403.7.5).
 
-### Frameworks and Developer Environments
+### Frameworks and Dev Environments
 #### [Foundry](https://getfoundry.sh/)
 * Foundry [symbolic testing](https://x.com/gakonst/status/2072674688359186681): started to make progress towards symbolic/concolic execution, `forge test --symbolic`.
 
-#### [Ape](https://apeworx.io/)
+#### [Ape Framework](https://docs.apeworx.io/ape)
 * [Ape Sourcify](https://github.com/ApeWorX/ape-sourcify) (plugin): automatically verifies Solidity + Vyper contracts, fetches verified sources/ABIs without API keys, and installs them as Ape dependencies by chain + address (`ape plugins install sourcify`).
 
 ### Standardisation Tooling
@@ -74,7 +74,7 @@ Argot Collective [H1 2026 transparency report](https://www.argot.org/reports/tra
 * EF Protocol Security team [running AI agents on protocol code](https://blog.ethereum.org/2026/07/09/triage-is-the-product).
 * [EF Protocol Support team](https://x.com/TMIYChao/status/2074907379930440014) dissolved.
 * Devcon 8 (Mumbai, India, November 3-6):
-  * [Devcon tickets](https://devcon.org/en/tickets/). 
+  * [Devcon tickets](https://devcon.org/en/tickets/).
   * [Devcon community hub applications](https://forum.devcon.org/t/rfp-13-devcon-8-india-community-hubs/8657) close August 12.
 
 ---
